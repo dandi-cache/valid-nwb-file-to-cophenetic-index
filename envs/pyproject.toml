@@ -1,9 +1,13 @@
 [project]
-name = "<cache-name>"
+name = "valid-nwb-file-to-cophenetic-index"
 version = "0.1.0"
 requires-python = ">=3.13"
 dependencies = [
     "datalad",
     "datalad-container",
-    # TODO: add this cache's processing dependencies used by code/update.py.
+    # HDF5 NWB files are streamed with remfile + h5py; numpy vectorizes the per-node
+    # leaf-count bookkeeping in the cophenetic index computation.
+    "h5py",
+    "numpy",
+    "remfile",
 ]
