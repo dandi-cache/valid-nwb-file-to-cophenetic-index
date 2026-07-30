@@ -6,7 +6,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 8/2 * * *"  # Daily at 08:00 UTC, a few hours after the upstream cache updates.
+    - cron: "0 8/12 * * *"  # Daily at 08:00 UTC, a few hours after the upstream cache updates.
   workflow_dispatch:
     inputs:
       testing:
@@ -20,7 +20,7 @@ on:
         description: "Complete run only: cap on the number of newly valid content IDs to process."
         required: false
         type: number
-        default: 500
+        default: 3000
 
 # Serialize all runs of this workflow, across every ref: an in-progress update is never
 # cancelled, and a run triggered while one is executing waits in the queue. The Gate job
