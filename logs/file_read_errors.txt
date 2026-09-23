@@ -1010,3 +1010,233 @@ Traceback (most recent call last):
 KeyError: 'Unable to synchronously open object (component not found)'
 
 
+Error while reading the NWB file for `024ef50f-ac6f-49ea-806b-93ef4b5e8644`!
+
+<class 'KeyError'>: 'Unable to synchronously open object (component not found)'
+
+Traceback (most recent call last):
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/_runner.py", line 160, in run_incremental_update
+    value = process(item, scope) if takes_scope else process(item)
+            ~~~~~~~^^^^^^^^^^^^^
+  File "/workspace/code/update.py", line 33, in compute_cophenetic_index
+    structure = dandi_cache.nwb.walk_structure(
+        content_id,
+        layout=dandi_cache.nwb.HDF5,
+        links=dandi_cache.nwb.LINKS_FOLLOWED,
+    )
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 190, in walk_structure
+    structure = walk_hdf5_group(h5py_file, links=links)
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 264, in walk_hdf5_group
+    _walk(root_group, 0)
+    ~~~~~^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 248, in _walk
+    leaves_per_child.append(_walk(child, depth + 1))
+                            ~~~~~^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 248, in _walk
+    leaves_per_child.append(_walk(child, depth + 1))
+                            ~~~~~^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 248, in _walk
+    leaves_per_child.append(_walk(child, depth + 1))
+                            ~~~~~^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 241, in _walk
+    children = list(_children(group))
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 221, in _children
+    yield group[name]
+          ~~~~~^^^^^^
+  File "/opt/venv/lib/python3.13/site-packages/h5py/_hl/group.py", line 407, in __getitem__
+    return self._get(name)
+           ~~~~~~~~~^^^^^^
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "/opt/venv/lib/python3.13/site-packages/h5py/_hl/group.py", line 421, in _get
+    oid = h5o.open(self.id, self._e(name), lapl=lapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5o.pyx", line 255, in h5py.h5o.open
+KeyError: 'Unable to synchronously open object (component not found)'
+
+
+Error while reading the NWB file for `09073220-fbea-45d2-9a39-2cc61fcdc2a1`!
+
+<class 'KeyError'>: 'Unable to synchronously open object (component not found)'
+
+Traceback (most recent call last):
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/_runner.py", line 160, in run_incremental_update
+    value = process(item, scope) if takes_scope else process(item)
+            ~~~~~~~^^^^^^^^^^^^^
+  File "/workspace/code/update.py", line 33, in compute_cophenetic_index
+    structure = dandi_cache.nwb.walk_structure(
+        content_id,
+        layout=dandi_cache.nwb.HDF5,
+        links=dandi_cache.nwb.LINKS_FOLLOWED,
+    )
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 190, in walk_structure
+    structure = walk_hdf5_group(h5py_file, links=links)
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 264, in walk_hdf5_group
+    _walk(root_group, 0)
+    ~~~~~^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 248, in _walk
+    leaves_per_child.append(_walk(child, depth + 1))
+                            ~~~~~^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 248, in _walk
+    leaves_per_child.append(_walk(child, depth + 1))
+                            ~~~~~^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 248, in _walk
+    leaves_per_child.append(_walk(child, depth + 1))
+                            ~~~~~^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 241, in _walk
+    children = list(_children(group))
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 221, in _children
+    yield group[name]
+          ~~~~~^^^^^^
+  File "/opt/venv/lib/python3.13/site-packages/h5py/_hl/group.py", line 407, in __getitem__
+    return self._get(name)
+           ~~~~~~~~~^^^^^^
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "/opt/venv/lib/python3.13/site-packages/h5py/_hl/group.py", line 421, in _get
+    oid = h5o.open(self.id, self._e(name), lapl=lapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5o.pyx", line 255, in h5py.h5o.open
+KeyError: 'Unable to synchronously open object (component not found)'
+
+
+Error while reading the NWB file for `0dec427d-4db4-44c3-988a-c37959ceaff3`!
+
+<class 'KeyError'>: 'Unable to synchronously open object (component not found)'
+
+Traceback (most recent call last):
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/_runner.py", line 160, in run_incremental_update
+    value = process(item, scope) if takes_scope else process(item)
+            ~~~~~~~^^^^^^^^^^^^^
+  File "/workspace/code/update.py", line 33, in compute_cophenetic_index
+    structure = dandi_cache.nwb.walk_structure(
+        content_id,
+        layout=dandi_cache.nwb.HDF5,
+        links=dandi_cache.nwb.LINKS_FOLLOWED,
+    )
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 190, in walk_structure
+    structure = walk_hdf5_group(h5py_file, links=links)
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 264, in walk_hdf5_group
+    _walk(root_group, 0)
+    ~~~~~^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 248, in _walk
+    leaves_per_child.append(_walk(child, depth + 1))
+                            ~~~~~^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 248, in _walk
+    leaves_per_child.append(_walk(child, depth + 1))
+                            ~~~~~^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 248, in _walk
+    leaves_per_child.append(_walk(child, depth + 1))
+                            ~~~~~^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 241, in _walk
+    children = list(_children(group))
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 221, in _children
+    yield group[name]
+          ~~~~~^^^^^^
+  File "/opt/venv/lib/python3.13/site-packages/h5py/_hl/group.py", line 407, in __getitem__
+    return self._get(name)
+           ~~~~~~~~~^^^^^^
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "/opt/venv/lib/python3.13/site-packages/h5py/_hl/group.py", line 421, in _get
+    oid = h5o.open(self.id, self._e(name), lapl=lapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5o.pyx", line 255, in h5py.h5o.open
+KeyError: 'Unable to synchronously open object (component not found)'
+
+
+Error while reading the NWB file for `0f7396ad-67ec-468a-b6a6-5599cb507f54`!
+
+<class 'KeyError'>: 'Unable to synchronously open object (component not found)'
+
+Traceback (most recent call last):
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/_runner.py", line 160, in run_incremental_update
+    value = process(item, scope) if takes_scope else process(item)
+            ~~~~~~~^^^^^^^^^^^^^
+  File "/workspace/code/update.py", line 33, in compute_cophenetic_index
+    structure = dandi_cache.nwb.walk_structure(
+        content_id,
+        layout=dandi_cache.nwb.HDF5,
+        links=dandi_cache.nwb.LINKS_FOLLOWED,
+    )
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 190, in walk_structure
+    structure = walk_hdf5_group(h5py_file, links=links)
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 264, in walk_hdf5_group
+    _walk(root_group, 0)
+    ~~~~~^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 248, in _walk
+    leaves_per_child.append(_walk(child, depth + 1))
+                            ~~~~~^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 248, in _walk
+    leaves_per_child.append(_walk(child, depth + 1))
+                            ~~~~~^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 248, in _walk
+    leaves_per_child.append(_walk(child, depth + 1))
+                            ~~~~~^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 241, in _walk
+    children = list(_children(group))
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 221, in _children
+    yield group[name]
+          ~~~~~^^^^^^
+  File "/opt/venv/lib/python3.13/site-packages/h5py/_hl/group.py", line 407, in __getitem__
+    return self._get(name)
+           ~~~~~~~~~^^^^^^
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "/opt/venv/lib/python3.13/site-packages/h5py/_hl/group.py", line 421, in _get
+    oid = h5o.open(self.id, self._e(name), lapl=lapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5o.pyx", line 255, in h5py.h5o.open
+KeyError: 'Unable to synchronously open object (component not found)'
+
+
+Error while reading the NWB file for `1066b3ba-83d9-4cb3-bfe3-ecf8539e2334`!
+
+<class 'KeyError'>: 'Unable to synchronously open object (component not found)'
+
+Traceback (most recent call last):
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/_runner.py", line 160, in run_incremental_update
+    value = process(item, scope) if takes_scope else process(item)
+            ~~~~~~~^^^^^^^^^^^^^
+  File "/workspace/code/update.py", line 33, in compute_cophenetic_index
+    structure = dandi_cache.nwb.walk_structure(
+        content_id,
+        layout=dandi_cache.nwb.HDF5,
+        links=dandi_cache.nwb.LINKS_FOLLOWED,
+    )
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 190, in walk_structure
+    structure = walk_hdf5_group(h5py_file, links=links)
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 264, in walk_hdf5_group
+    _walk(root_group, 0)
+    ~~~~~^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 248, in _walk
+    leaves_per_child.append(_walk(child, depth + 1))
+                            ~~~~~^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 248, in _walk
+    leaves_per_child.append(_walk(child, depth + 1))
+                            ~~~~~^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 248, in _walk
+    leaves_per_child.append(_walk(child, depth + 1))
+                            ~~~~~^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 241, in _walk
+    children = list(_children(group))
+  File "/opt/venv/lib/python3.13/site-packages/dandi_cache_utils/nwb.py", line 221, in _children
+    yield group[name]
+          ~~~~~^^^^^^
+  File "/opt/venv/lib/python3.13/site-packages/h5py/_hl/group.py", line 407, in __getitem__
+    return self._get(name)
+           ~~~~~~~~~^^^^^^
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "/opt/venv/lib/python3.13/site-packages/h5py/_hl/group.py", line 421, in _get
+    oid = h5o.open(self.id, self._e(name), lapl=lapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5o.pyx", line 255, in h5py.h5o.open
+KeyError: 'Unable to synchronously open object (component not found)'
+
+
