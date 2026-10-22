@@ -1,0 +1,597 @@
+2026-10-22T14:07:37Z INFO Logging to /tmp/logs/update_2026-10-22T14-07-37Z.log.
+2026-10-22T14:07:37Z INFO Update valid-nwb-file-to-cophenetic-index (base directory /tmp).
+2026-10-22T14:07:38Z INFO Processing 517 items (175868 already recorded).
+2026-10-22T14:07:40Z INFO [1/517] 003f0222-07a5-4025-ad59-9cc5caa68ee1: cophenetic index 6182; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:07:41Z INFO [2/517] 004d334e-41ce-48da-8efa-7a1fc8c34c70: cophenetic index 6825; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:07:44Z INFO [3/517] 009a2ae6-8ea5-4c88-a6e2-abc99ab8ad5d: cophenetic index 6825; 3.0 s; peak memory 177 MiB.
+2026-10-22T14:07:46Z INFO [4/517] 00a215b4-ce45-46f8-aa93-761da75832d1: cophenetic index 6200; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:07:48Z INFO [5/517] 00cf27f8-39ec-4bbf-a1be-c26bd1848f06: cophenetic index 6825; 2.0 s; peak memory 177 MiB.
+2026-10-22T14:07:49Z INFO [6/517] 00dc9f42-855b-4b6b-9efd-000523cb7f2e: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:07:50Z INFO [7/517] 0128748f-5fe0-4449-98f9-bbf056aa4f2b: cophenetic index 6825; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:07:52Z INFO [8/517] 012ad2c1-c0a7-4918-a92b-1864e4d41d3c: cophenetic index 6825; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:07:54Z INFO [9/517] 01d88369-748d-4c4d-8f28-7198b896147c: cophenetic index 6182; 1.3 s; peak memory 177 MiB.
+2026-10-22T14:07:55Z WARNING 024ef50f-ac6f-49ea-806b-93ef4b5e8644: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:07:55Z WARNING [10/517] 024ef50f-ac6f-49ea-806b-93ef4b5e8644: leaving unrecorded for a later run to retry.
+2026-10-22T14:07:57Z INFO [11/517] 02febcab-d1c8-4e83-bf3b-5886a91a3bd4: cophenetic index 6825; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:07:57Z INFO [12/517] 0313fdbf-4fad-42f3-8a36-7f133d256f96: cophenetic index 6182; 0.8 s; peak memory 177 MiB.
+2026-10-22T14:07:59Z INFO [13/517] 032bb032-19bd-45a4-b270-cd787917ec28: cophenetic index 6200; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:08:01Z INFO [14/517] 0393aabb-978d-4aa3-a09b-956670de59f6: cophenetic index 6200; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:08:01Z INFO [15/517] 03a5efce-1bc4-495a-9101-c7de09b9b009: cophenetic index 6182; 0.8 s; peak memory 177 MiB.
+2026-10-22T14:08:03Z INFO [16/517] 03e97c56-c648-4926-8f16-eb6c50cd9af4: cophenetic index 6798; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:08:04Z INFO [17/517] 043fa358-bd25-4b6b-8f62-775c13d83a50: cophenetic index 734; 0.7 s; peak memory 177 MiB.
+2026-10-22T14:08:05Z INFO [18/517] 059ffe69-45ba-4e9e-ae37-5ff5ec5bcdca: cophenetic index 6825; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:08:07Z INFO [19/517] 05d96671-6895-4646-a8de-567984c6de68: cophenetic index 6182; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:08:08Z INFO [20/517] 06d5c1fb-b01e-46bd-be68-f654c6b3d42c: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:08:09Z INFO [21/517] 07adafc9-ebc5-4f00-a3ff-bc9cf7557d97: cophenetic index 6825; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:08:11Z INFO [22/517] 07b7ebfa-3281-41c5-817f-5235bb22cbf9: cophenetic index 6825; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:08:12Z INFO [23/517] 07df8d59-a9b3-4c83-b0d8-34c7c554f2ce: cophenetic index 6182; 1.3 s; peak memory 177 MiB.
+2026-10-22T14:08:14Z INFO [24/517] 08a95605-5dad-42f6-bb7e-5c603da35b9b: cophenetic index 6787; 1.2 s; peak memory 177 MiB.
+2026-10-22T14:08:15Z WARNING 09073220-fbea-45d2-9a39-2cc61fcdc2a1: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:08:15Z WARNING [25/517] 09073220-fbea-45d2-9a39-2cc61fcdc2a1: leaving unrecorded for a later run to retry.
+2026-10-22T14:08:17Z INFO [26/517] 09669b70-4376-4068-9e57-0295e40e73b7: cophenetic index 6825; 2.0 s; peak memory 177 MiB.
+2026-10-22T14:08:19Z INFO [27/517] 09ac1ad0-560e-48f3-8e42-2860d1a643eb: cophenetic index 6825; 2.1 s; peak memory 177 MiB.
+2026-10-22T14:08:20Z INFO [28/517] 0a0cc7d2-09df-4164-9011-b9880284fae8: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:08:22Z INFO [29/517] 0a28022b-fc4c-469b-9755-48be202d30cb: cophenetic index 6830; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:08:23Z INFO [30/517] 0ad06b1b-f720-49c6-9fc5-29e58246363f: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:08:26Z INFO [31/517] 0adf69e9-4997-4a86-bdbd-22bb2585165f: cophenetic index 6825; 2.8 s; peak memory 177 MiB.
+2026-10-22T14:08:27Z INFO [32/517] 0c00da05-2dbd-4b0c-94fe-98c6ae35900c: cophenetic index 6798; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:08:29Z INFO [33/517] 0c7dc5dd-4d72-4a2b-8de2-62d00be248c1: cophenetic index 6825; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:08:31Z INFO [34/517] 0d30314a-4a7a-45fe-90fc-0fee19193842: cophenetic index 6825; 2.0 s; peak memory 177 MiB.
+2026-10-22T14:08:32Z WARNING 0dec427d-4db4-44c3-988a-c37959ceaff3: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:08:32Z WARNING [35/517] 0dec427d-4db4-44c3-988a-c37959ceaff3: leaving unrecorded for a later run to retry.
+2026-10-22T14:08:34Z INFO [36/517] 0e2a6bfe-8de5-413b-91cf-66516350cbe4: cophenetic index 6825; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:08:36Z INFO [37/517] 0e8da4ac-80a8-4235-be7b-858560c36321: cophenetic index 6830; 2.0 s; peak memory 177 MiB.
+2026-10-22T14:08:37Z INFO [38/517] 0eb35e37-2fb8-4504-a7a9-0bfc9321fec8: cophenetic index 6076; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:08:39Z INFO [39/517] 0ef10726-b4ff-4d63-9b2d-97f622915e24: cophenetic index 6825; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:08:40Z INFO [40/517] 0f34b1ec-2e70-436a-93d2-80161067e8e1: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:08:41Z WARNING 0f7396ad-67ec-468a-b6a6-5599cb507f54: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:08:41Z WARNING [41/517] 0f7396ad-67ec-468a-b6a6-5599cb507f54: leaving unrecorded for a later run to retry.
+2026-10-22T14:08:42Z INFO [42/517] 0f9ed0bd-0c6d-4162-a439-1384cdda7460: cophenetic index 6825; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:08:44Z INFO [43/517] 0fa88a15-c03d-41ea-9a06-cc91870e80a9: cophenetic index 6825; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:08:46Z INFO [44/517] 0faa9c4e-080b-4c92-a3b0-cd2355b52c0c: cophenetic index 6193; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:08:47Z WARNING 1066b3ba-83d9-4cb3-bfe3-ecf8539e2334: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:08:47Z WARNING [45/517] 1066b3ba-83d9-4cb3-bfe3-ecf8539e2334: leaving unrecorded for a later run to retry.
+2026-10-22T14:08:48Z INFO [46/517] 10b9fb39-1498-427d-96e0-b4014cf65205: cophenetic index 6787; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:08:50Z INFO [47/517] 11943688-8dca-4f4a-b448-61ed0aa5a3ae: cophenetic index 6825; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:08:52Z INFO [48/517] 12e4fba2-1628-43f2-abbf-2e4e96022219: cophenetic index 6825; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:08:54Z INFO [49/517] 13e03b95-31f9-4c67-9975-3062ed4b4b80: cophenetic index 6825; 2.0 s; peak memory 177 MiB.
+2026-10-22T14:08:56Z INFO [50/517] 14170e55-a208-47cb-891d-d714a513a653: cophenetic index 6830; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:08:56Z INFO [50/517] 14170e55-a208-47cb-891d-d714a513a653: checkpointed 175913 new records.
+2026-10-22T14:08:57Z INFO [51/517] 15a18844-b113-4ba1-b534-03f6783bb1c7: cophenetic index 6787; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:08:58Z INFO [52/517] 16e2a82a-70e8-4e71-8ea6-6c92e26d32e2: cophenetic index 6182; 1.3 s; peak memory 177 MiB.
+2026-10-22T14:09:00Z INFO [53/517] 172d7dc2-751f-49c4-b1e4-8f87cfbcd1f6: cophenetic index 6825; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:09:01Z INFO [54/517] 17387fbe-0573-4bcf-b8b9-60de96d65d43: cophenetic index 6830; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:09:03Z INFO [55/517] 176e60b4-1334-4bb9-8e8d-78e0ec6a6252: cophenetic index 6200; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:09:04Z INFO [56/517] 17950e57-6810-491a-89c3-f99fa35d1e93: cophenetic index 6076; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:09:06Z INFO [57/517] 17964d0d-55b9-431f-a453-665e6ff6ac48: cophenetic index 6825; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:09:07Z WARNING 17a546c4-6425-4c56-a43e-9f9f272d299c: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:09:07Z WARNING [58/517] 17a546c4-6425-4c56-a43e-9f9f272d299c: leaving unrecorded for a later run to retry.
+2026-10-22T14:09:09Z INFO [59/517] 1908e6a5-4bea-4ef0-9fd0-ab9a43e83350: cophenetic index 6798; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:09:10Z WARNING 19998990-d06f-40db-8d07-c5121b317b6a: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:09:10Z WARNING [60/517] 19998990-d06f-40db-8d07-c5121b317b6a: leaving unrecorded for a later run to retry.
+2026-10-22T14:09:12Z WARNING 1a18ed31-9155-4512-919f-b6875d14b9f3: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:09:12Z WARNING [61/517] 1a18ed31-9155-4512-919f-b6875d14b9f3: leaving unrecorded for a later run to retry.
+2026-10-22T14:09:13Z INFO [62/517] 1a615fec-03bc-4bf2-a41d-60bb1e4263fe: cophenetic index 6798; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:09:15Z INFO [63/517] 1bd92bbf-3780-44a0-8006-0f890fec856d: cophenetic index 6798; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:09:16Z WARNING 1c2fff6f-f3a7-43fb-b7e2-a33218d41614: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:09:16Z WARNING [64/517] 1c2fff6f-f3a7-43fb-b7e2-a33218d41614: leaving unrecorded for a later run to retry.
+2026-10-22T14:09:19Z INFO [65/517] 1d2ac091-472f-4f4b-bae2-9be214f36f36: cophenetic index 6200; 2.3 s; peak memory 177 MiB.
+2026-10-22T14:09:21Z INFO [66/517] 1d31b907-74c6-4628-8e96-4c7e00b3c251: cophenetic index 6825; 2.1 s; peak memory 177 MiB.
+2026-10-22T14:09:23Z INFO [67/517] 1d39aba2-2c48-4d26-a15b-970411587d58: cophenetic index 6830; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:09:25Z INFO [68/517] 1d6d11ac-fa7c-4f81-abda-a0e370e09cfe: cophenetic index 6825; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:09:25Z INFO [69/517] 1de47ca7-6875-4d2c-ae9b-b7e3c2808387: cophenetic index 6787; 0.8 s; peak memory 177 MiB.
+2026-10-22T14:09:27Z INFO [70/517] 1e4702a4-ca84-44bf-9485-799ced08195c: cophenetic index 6798; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:09:29Z INFO [71/517] 1e7610ee-acdf-4e73-9dd6-20cd8d5f04bf: cophenetic index 6825; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:09:30Z INFO [72/517] 1e7a1208-21d4-46d2-bfd6-b0fa7e1fefbc: cophenetic index 6698; 1.2 s; peak memory 177 MiB.
+2026-10-22T14:09:31Z INFO [73/517] 1f461724-a6ae-4d0d-b5a5-81f2cfe70459: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:09:33Z INFO [74/517] 1f6553e7-5442-4c7e-a547-03d77145a009: cophenetic index 6830; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:09:35Z INFO [75/517] 200b2632-37c0-4ffc-80d0-035ce816399c: cophenetic index 6825; 2.1 s; peak memory 177 MiB.
+2026-10-22T14:09:36Z WARNING 20b5d243-5a61-4246-a5d5-ac9d9068183d: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:09:36Z WARNING [76/517] 20b5d243-5a61-4246-a5d5-ac9d9068183d: leaving unrecorded for a later run to retry.
+2026-10-22T14:09:38Z INFO [77/517] 20d2267b-a5aa-4145-8ab1-12758f31b265: cophenetic index 6798; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:09:39Z WARNING 20e4b649-b593-4ee3-bd02-f0645aad7021: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:09:39Z WARNING [78/517] 20e4b649-b593-4ee3-bd02-f0645aad7021: leaving unrecorded for a later run to retry.
+2026-10-22T14:09:41Z INFO [79/517] 21ce3e26-1ab0-449e-b37e-682fd23aaa60: cophenetic index 6825; 2.3 s; peak memory 177 MiB.
+2026-10-22T14:09:43Z INFO [80/517] 22d5b25e-d29d-42cc-a5ee-404c734954e0: cophenetic index 6787; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:09:44Z INFO [81/517] 22ee6aed-4668-42f1-aca1-2154bde28224: cophenetic index 6200; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:09:47Z INFO [82/517] 2346fcbb-1175-4cd5-9346-5b6573780242: cophenetic index 6825; 2.2 s; peak memory 177 MiB.
+2026-10-22T14:09:48Z WARNING 2420003b-b350-4a69-b1aa-b27f68179823: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:09:48Z WARNING [83/517] 2420003b-b350-4a69-b1aa-b27f68179823: leaving unrecorded for a later run to retry.
+2026-10-22T14:09:50Z INFO [84/517] 243136b9-a792-4b7f-924e-12846239f719: cophenetic index 6969; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:09:52Z INFO [85/517] 253ba1cb-3338-4f3b-b44c-be81021948e0: cophenetic index 6825; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:09:53Z INFO [86/517] 259d66f8-4f51-4e48-b5cb-57911b9c39f0: cophenetic index 6787; 1.2 s; peak memory 177 MiB.
+2026-10-22T14:09:55Z INFO [87/517] 26010d2a-c39d-43af-ad1a-f4860fd53998: cophenetic index 6798; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:09:55Z INFO [88/517] 27563622-6842-4d4d-94ab-e275fb3468db: cophenetic index 716; 0.8 s; peak memory 177 MiB.
+2026-10-22T14:09:58Z INFO [89/517] 286b59e3-c775-46ca-b2c8-df1d1d72f061: cophenetic index 6825; 2.3 s; peak memory 177 MiB.
+2026-10-22T14:10:00Z INFO [90/517] 28b46825-23b0-4f54-b261-c3a615d60283: cophenetic index 6830; 2.0 s; peak memory 177 MiB.
+2026-10-22T14:10:01Z INFO [91/517] 28d05547-2b21-4ce7-b3e1-f2a4d19a91af: cophenetic index 6182; 1.2 s; peak memory 177 MiB.
+2026-10-22T14:10:03Z INFO [92/517] 28dc4bba-a65d-4f0f-92dc-913689629628: cophenetic index 6825; 2.4 s; peak memory 177 MiB.
+2026-10-22T14:10:05Z INFO [93/517] 2950cc2e-f5e5-4bab-88fe-02b45aef7ea6: cophenetic index 6182; 1.2 s; peak memory 177 MiB.
+2026-10-22T14:10:06Z INFO [94/517] 295ed1a9-0d92-4a9c-b8a6-ad9775f5f0e6: cophenetic index 6787; 1.3 s; peak memory 177 MiB.
+2026-10-22T14:10:08Z INFO [95/517] 2a29bc51-c2f6-44fc-bcb9-016479e7dbbc: cophenetic index 6200; 2.4 s; peak memory 177 MiB.
+2026-10-22T14:10:09Z WARNING 2a76c0ae-11ba-4712-bfc9-5a1534c26aeb: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:10:09Z WARNING [96/517] 2a76c0ae-11ba-4712-bfc9-5a1534c26aeb: leaving unrecorded for a later run to retry.
+2026-10-22T14:10:11Z INFO [97/517] 2ae8cc94-b415-4850-ab6c-1880285e492f: cophenetic index 6225; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:10:13Z INFO [98/517] 2b4decc0-2a16-403e-9ea7-242fe1d04b24: cophenetic index 6825; 2.1 s; peak memory 177 MiB.
+2026-10-22T14:10:14Z INFO [99/517] 2bc4d0c6-31bb-4b21-97c4-55448ec7f226: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:10:16Z INFO [100/517] 2d2f89f7-e43f-409a-b3e3-cda39b8f83d5: cophenetic index 6825; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:10:16Z INFO [100/517] 2d2f89f7-e43f-409a-b3e3-cda39b8f83d5: checkpointed 175955 new records.
+2026-10-22T14:10:17Z INFO [101/517] 2fa4742c-15cf-433d-8d36-1ccfb597fe1d: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:10:18Z INFO [102/517] 2fbd66b2-f101-4b1e-9f89-a826b21cc5b4: cophenetic index 6932; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:10:19Z INFO [103/517] 3013b1d4-1034-4675-ba01-9f089d18c948: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:10:21Z INFO [104/517] 303a8550-e730-4638-b84a-b0c9b69fb516: cophenetic index 6798; 2.0 s; peak memory 177 MiB.
+2026-10-22T14:10:22Z INFO [105/517] 306ecb2b-eebb-4fe7-9a90-e161a4d5f8a3: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:10:24Z INFO [106/517] 30cc6669-a643-4b15-99d9-2978c22f6bbd: cophenetic index 6825; 2.5 s; peak memory 177 MiB.
+2026-10-22T14:10:26Z WARNING 319d22c8-6c6e-41bb-9bf9-9c6773d2b2ad: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:10:26Z WARNING [107/517] 319d22c8-6c6e-41bb-9bf9-9c6773d2b2ad: leaving unrecorded for a later run to retry.
+2026-10-22T14:10:27Z INFO [108/517] 3213ff50-2bd6-467d-b679-99335fe9d396: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:10:28Z WARNING 324ccb4d-b81e-4dbb-a29d-ef474eef0d50: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:10:28Z WARNING [109/517] 324ccb4d-b81e-4dbb-a29d-ef474eef0d50: leaving unrecorded for a later run to retry.
+2026-10-22T14:10:29Z INFO [110/517] 32ae5893-b550-4a10-8775-5f34f77a90d5: cophenetic index 6076; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:10:30Z INFO [111/517] 349a88c5-83fe-4c85-bee1-88c16f6fa915: cophenetic index 6193; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:10:32Z INFO [112/517] 34dae22c-56e6-4f50-94dd-5fb12aa6d7ea: cophenetic index 6698; 1.2 s; peak memory 177 MiB.
+2026-10-22T14:10:34Z INFO [113/517] 35bee13d-78bb-4c91-88cf-94d84371dd55: cophenetic index 6825; 2.2 s; peak memory 177 MiB.
+2026-10-22T14:10:35Z INFO [114/517] 35c530cc-481b-4327-b4c8-56707dd01f42: cophenetic index 6787; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:10:37Z INFO [115/517] 3644cd47-fb41-4f09-b3be-bdfa8959b4bc: cophenetic index 6969; 2.2 s; peak memory 177 MiB.
+2026-10-22T14:10:38Z INFO [116/517] 37115f16-99f0-4e3b-8502-e9fa5cc0e079: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:10:39Z INFO [117/517] 3728531e-adcc-4171-8661-7f191bc5bd19: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:10:40Z INFO [118/517] 379ef991-22f7-4958-bf0e-09ceb8f51e69: cophenetic index 6193; 1.4 s; peak memory 177 MiB.
+2026-10-22T14:10:42Z INFO [119/517] 37c7eb42-e7e0-422b-9fe7-7b10d8b0cda6: cophenetic index 6200; 1.4 s; peak memory 177 MiB.
+2026-10-22T14:10:43Z INFO [120/517] 38b7e6fe-39c1-4326-8300-70efcde3fc58: cophenetic index 6076; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:10:45Z INFO [121/517] 38f9a2f7-8c66-43a8-bf18-518e96a6f5f6: cophenetic index 6825; 2.2 s; peak memory 177 MiB.
+2026-10-22T14:10:46Z INFO [122/517] 390a8b6e-c2d3-4722-82ff-bce9073d2543: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:10:47Z INFO [123/517] 3a9ac188-6525-4644-9d0e-69f6b0a3cb70: cophenetic index 6182; 1.2 s; peak memory 177 MiB.
+2026-10-22T14:10:49Z INFO [124/517] 3ae3cab0-ae1c-4e19-8ed6-8d64df1531b3: cophenetic index 6825; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:10:50Z WARNING 3b2672c0-01e2-4e2a-a6fd-09535b8afd67: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:10:50Z WARNING [125/517] 3b2672c0-01e2-4e2a-a6fd-09535b8afd67: leaving unrecorded for a later run to retry.
+2026-10-22T14:10:51Z INFO [126/517] 3b8c33d0-561b-4fc5-ab96-a31276401262: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:10:53Z INFO [127/517] 3b90ef93-18fd-4d47-aeda-112e3ea4ed6c: cophenetic index 6200; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:10:54Z INFO [128/517] 3bffb8d9-918b-4e31-8e83-95429a8d3db4: cophenetic index 6182; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:10:55Z INFO [129/517] 3ca75cde-881d-4ea6-88af-a8bec69d366f: cophenetic index 6798; 1.4 s; peak memory 177 MiB.
+2026-10-22T14:10:58Z INFO [130/517] 3d353b0f-95d7-4834-a346-ea16310c762b: cophenetic index 6825; 2.4 s; peak memory 177 MiB.
+2026-10-22T14:10:59Z INFO [131/517] 3d693aa1-61bb-40e7-b09a-16e1c811f0cb: cophenetic index 6182; 1.2 s; peak memory 177 MiB.
+2026-10-22T14:11:00Z WARNING 3dec1e5e-7a4c-4aaa-95eb-7a953aa18d59: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:11:00Z WARNING [132/517] 3dec1e5e-7a4c-4aaa-95eb-7a953aa18d59: leaving unrecorded for a later run to retry.
+2026-10-22T14:11:02Z INFO [133/517] 3e6bb0b7-946c-4bd3-9057-54d14c74495d: cophenetic index 6825; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:11:04Z INFO [134/517] 4078bbf4-9c0c-4ee3-887c-bc19039b3d2f: cophenetic index 6932; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:11:05Z WARNING 40d7f442-8923-4dd5-87cb-af432218c083: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:11:05Z WARNING [135/517] 40d7f442-8923-4dd5-87cb-af432218c083: leaving unrecorded for a later run to retry.
+2026-10-22T14:11:07Z INFO [136/517] 41c05802-3192-46fe-bb40-abaa6fa3d935: cophenetic index 6225; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:11:08Z WARNING 4255c687-2c9c-4ffc-83b6-08157b521931: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:11:08Z WARNING [137/517] 4255c687-2c9c-4ffc-83b6-08157b521931: leaving unrecorded for a later run to retry.
+2026-10-22T14:11:10Z INFO [138/517] 42feba64-df83-4533-a156-9cc2b90f3a4c: cophenetic index 6825; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:11:11Z INFO [139/517] 43263070-206c-41ce-961f-52d8855f0d4e: cophenetic index 6182; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:11:12Z INFO [140/517] 4366025e-d5fa-4d9e-835a-2882fdb7057f: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:11:14Z INFO [141/517] 43ac4c76-6068-40ad-bc19-d32faee4a0d2: cophenetic index 6825; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:11:15Z WARNING 43addd0b-0674-4137-8eaa-9df790dee1ce: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:11:15Z WARNING [142/517] 43addd0b-0674-4137-8eaa-9df790dee1ce: leaving unrecorded for a later run to retry.
+2026-10-22T14:11:16Z INFO [143/517] 44366554-67b7-4d9b-9a45-50f15c84ea2c: cophenetic index 6193; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:11:19Z INFO [144/517] 44fa38c2-d423-4495-bdde-4968e002f59b: cophenetic index 6825; 2.1 s; peak memory 177 MiB.
+2026-10-22T14:11:20Z INFO [145/517] 45460585-f281-4229-b1b1-c6fafc959e96: cophenetic index 6830; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:11:21Z INFO [146/517] 45c5b85b-f082-412d-be86-f61ed0285ee8: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:11:23Z INFO [147/517] 46154837-acd5-4185-a915-28b5bee45240: cophenetic index 6825; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:11:25Z INFO [148/517] 4684391b-1e63-4e68-a6c1-fd1ab674d977: cophenetic index 6830; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:11:26Z INFO [149/517] 46a95849-9b11-4562-a3d9-bbb764554d85: cophenetic index 6798; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:11:28Z INFO [150/517] 46d34372-8208-4c5d-9568-baec81675183: cophenetic index 6825; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:11:28Z INFO [150/517] 46d34372-8208-4c5d-9568-baec81675183: checkpointed 175998 new records.
+2026-10-22T14:11:30Z INFO [151/517] 47337d45-7f07-4355-8e93-87e5784fb633: cophenetic index 6798; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:11:32Z INFO [152/517] 490b8f3d-b623-4723-89dd-30d3ea5f362a: cophenetic index 6825; 2.1 s; peak memory 177 MiB.
+2026-10-22T14:11:33Z INFO [153/517] 497e232c-b2e2-491d-8f6d-a01f6d4ce691: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:11:34Z INFO [154/517] 49b9e376-eb35-4e93-9127-83963d07380c: cophenetic index 734; 0.6 s; peak memory 177 MiB.
+2026-10-22T14:11:35Z INFO [155/517] 49e4f65f-38d7-4154-8919-f28cf30191aa: cophenetic index 6825; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:11:36Z INFO [156/517] 4a515ae0-2b22-46f9-a723-d045223d3d79: cophenetic index 716; 0.6 s; peak memory 177 MiB.
+2026-10-22T14:11:37Z INFO [157/517] 4a5b116c-ee4a-450c-9af3-a26bd6e87e80: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:11:39Z INFO [158/517] 4afdcc1e-9067-420d-8e10-9f85247dd200: cophenetic index 6200; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:11:41Z INFO [159/517] 4b289c8b-69b3-4dec-8527-12a2cc30a2fb: cophenetic index 6825; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:11:42Z INFO [160/517] 4b47bf84-5750-418a-99fa-e5b66ceda29c: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:11:44Z INFO [161/517] 4b96a1f9-5d57-4a81-8083-a05f273c2b02: cophenetic index 6969; 2.1 s; peak memory 177 MiB.
+2026-10-22T14:11:45Z INFO [162/517] 4b9d01d5-ed99-4107-9322-1d652b0f0050: cophenetic index 6182; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:11:46Z INFO [163/517] 4c08eecf-abf5-4a54-a865-870cc7c79df5: cophenetic index 6787; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:11:48Z INFO [164/517] 4c14db9a-8560-47c7-8c66-d985bdd7e520: cophenetic index 6825; 2.0 s; peak memory 177 MiB.
+2026-10-22T14:11:49Z INFO [165/517] 4c15ff8c-25be-483d-b486-374827a0c6ef: cophenetic index 6798; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:11:51Z INFO [166/517] 4c7ca88a-90bb-4ff7-b6aa-ad1623dd0e38: cophenetic index 6200; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:11:52Z INFO [167/517] 4cb00abe-fe6a-4f19-a22a-4432f7e32063: cophenetic index 6200; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:11:54Z INFO [168/517] 4de76907-7263-4668-aa4a-7694b549f3d6: cophenetic index 6825; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:11:56Z INFO [169/517] 4deb5eff-d738-4f1a-87a6-ef0b25a9980e: cophenetic index 6225; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:11:57Z INFO [170/517] 4e393e93-b5eb-4b26-b4e5-0fb41d4b01e4: cophenetic index 6076; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:11:58Z INFO [171/517] 4eba0513-fe70-4474-ae2e-8a8849ba85a5: cophenetic index 6787; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:11:59Z INFO [172/517] 4f7baebc-fa46-4b9e-827f-02c951505048: cophenetic index 6787; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:12:01Z INFO [173/517] 4fddcc04-8de2-4d20-908e-f08b46f93ca7: cophenetic index 6825; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:12:03Z INFO [174/517] 50296250-d162-498d-a257-d3e263f169e2: cophenetic index 6825; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:12:05Z INFO [175/517] 50a240cd-730b-49e4-bad2-2948b278c638: cophenetic index 6825; 2.1 s; peak memory 177 MiB.
+2026-10-22T14:12:07Z INFO [176/517] 50f5b91d-66d5-494c-8dfa-2a669f02dd60: cophenetic index 6825; 2.0 s; peak memory 177 MiB.
+2026-10-22T14:12:08Z INFO [177/517] 51536ca4-1504-4bd1-8712-def95ad8474c: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:12:09Z INFO [178/517] 52c86c2c-4c07-465b-ac25-29cb7df801bb: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:12:10Z INFO [179/517] 52dcd42c-7e39-4c74-bcd9-8a1fce851e74: cophenetic index 6830; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:12:12Z INFO [180/517] 53549ea7-913a-4bc7-a1c3-6247ea8344b1: cophenetic index 6825; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:12:13Z INFO [181/517] 538de0b1-957f-4bf2-8e27-0feedcf9d5e6: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:12:14Z INFO [182/517] 53a1a283-a477-4390-bd07-09b6743c354e: cophenetic index 6798; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:12:16Z INFO [183/517] 550b36c6-6945-45bd-b290-dbe6ad5d5955: cophenetic index 6830; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:12:18Z INFO [184/517] 55395614-950b-49c0-b8f5-39a311cd1d40: cophenetic index 6825; 2.0 s; peak memory 177 MiB.
+2026-10-22T14:12:20Z INFO [185/517] 5693c91a-b261-4c86-826c-fbda384402eb: cophenetic index 6798; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:12:21Z INFO [186/517] 56a537af-b7d9-4bfe-910a-87f62155fbca: cophenetic index 6200; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:12:22Z INFO [187/517] 56b29454-2407-4b32-9df1-bf06a8576e44: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:12:24Z INFO [188/517] 5997d7bd-e68b-4d6f-93bf-aef7949fb172: cophenetic index 6200; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:12:25Z WARNING 59beae01-8c63-4353-a90b-e97078f0ecde: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:12:25Z WARNING [189/517] 59beae01-8c63-4353-a90b-e97078f0ecde: leaving unrecorded for a later run to retry.
+2026-10-22T14:12:26Z INFO [190/517] 5a7d33f8-ea53-45ea-bb4e-2e36c7482cf1: cophenetic index 6076; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:12:28Z INFO [191/517] 5d28ab66-8e2d-4be7-a33e-cfa6dc42c342: cophenetic index 6798; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:12:29Z INFO [192/517] 5e15020e-7f27-4f51-8b7c-1fb989a0be2f: cophenetic index 6825; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:12:31Z INFO [193/517] 5ee586a5-a378-4b52-877b-34772878b7ff: cophenetic index 6093; 1.2 s; peak memory 177 MiB.
+2026-10-22T14:12:32Z INFO [194/517] 5fbfe535-60b6-4550-93d6-83175ef81afc: cophenetic index 6787; 1.2 s; peak memory 177 MiB.
+2026-10-22T14:12:33Z INFO [195/517] 602fd4e1-bfbd-414f-afb9-8a7faa850bd5: cophenetic index 6225; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:12:35Z INFO [196/517] 6040695a-d76f-4f9f-8211-c185b3c371f0: cophenetic index 6225; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:12:36Z INFO [197/517] 608cccc4-66b2-41ca-9f03-04223af0d192: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:12:37Z INFO [198/517] 60ce6d82-4a59-45c2-9418-fd5785356a6e: cophenetic index 6787; 1.3 s; peak memory 177 MiB.
+2026-10-22T14:12:38Z INFO [199/517] 610d5e16-0afc-4426-abb2-328d166c70d8: cophenetic index 6787; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:12:40Z INFO [200/517] 625dee3f-6804-4abf-919a-1c03dc3ac047: cophenetic index 6825; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:12:40Z INFO [200/517] 625dee3f-6804-4abf-919a-1c03dc3ac047: checkpointed 176047 new records.
+2026-10-22T14:12:42Z INFO [201/517] 62fa0719-a1d7-4ca9-814f-2f036ad619b4: cophenetic index 6825; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:12:44Z INFO [202/517] 63362e21-5da6-4dc3-8cff-24e59db55413: cophenetic index 6825; 2.0 s; peak memory 177 MiB.
+2026-10-22T14:12:46Z INFO [203/517] 63f5f198-512c-4d3b-ba1a-a705bd062787: cophenetic index 6798; 2.0 s; peak memory 177 MiB.
+2026-10-22T14:12:47Z INFO [204/517] 64abb86c-c798-4056-ac85-06ded7acf303: cophenetic index 6193; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:12:49Z INFO [205/517] 6524b920-45d9-4101-af74-2517a035e6e0: cophenetic index 6200; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:12:50Z INFO [206/517] 65ed8159-2e91-4c78-8844-db96921072f3: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:12:51Z INFO [207/517] 67ad5f58-393d-4135-ae19-882a22a82475: cophenetic index 6787; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:12:53Z INFO [208/517] 67e8408d-0c62-4e97-adcd-dc5a5e103632: cophenetic index 6825; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:12:54Z INFO [209/517] 680cc701-e177-4cfb-ad41-bd607b20251a: cophenetic index 6076; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:12:56Z INFO [210/517] 69250b38-1433-4a55-84e3-60a5a566e915: cophenetic index 6825; 2.3 s; peak memory 177 MiB.
+2026-10-22T14:12:58Z INFO [211/517] 692554c1-98c5-4bcd-825c-ddd8960e5fe3: cophenetic index 6825; 2.1 s; peak memory 177 MiB.
+2026-10-22T14:12:59Z WARNING 6a997180-d683-4d9d-9b90-05b7dc97c11c: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:12:59Z WARNING [212/517] 6a997180-d683-4d9d-9b90-05b7dc97c11c: leaving unrecorded for a later run to retry.
+2026-10-22T14:13:01Z WARNING 6aa6bd0b-2ee9-4b1c-ae04-8288b68d12ff: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:13:01Z WARNING [213/517] 6aa6bd0b-2ee9-4b1c-ae04-8288b68d12ff: leaving unrecorded for a later run to retry.
+2026-10-22T14:13:02Z WARNING 6aae1939-4782-4088-b5f7-42ef42d4db39: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:13:02Z WARNING [214/517] 6aae1939-4782-4088-b5f7-42ef42d4db39: leaving unrecorded for a later run to retry.
+2026-10-22T14:13:03Z INFO [215/517] 6ae400e2-e5e4-4190-8451-65b38a38b331: cophenetic index 6787; 1.3 s; peak memory 177 MiB.
+2026-10-22T14:13:05Z INFO [216/517] 6b0907af-9fec-40a0-bc44-0d8ab7a69bb0: cophenetic index 6830; 2.1 s; peak memory 177 MiB.
+2026-10-22T14:13:06Z INFO [217/517] 6b9625cf-8941-41fd-968b-01b4c5b44cf1: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:13:08Z INFO [218/517] 6bafd57e-464c-4cf7-be13-02522d2b3f3c: cophenetic index 6830; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:13:09Z INFO [219/517] 6bf72f9f-8b11-4eb2-8dbd-729641066630: cophenetic index 6825; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:13:11Z WARNING 6d423b55-67f8-42c9-9dee-caa73708d896: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:13:11Z WARNING [220/517] 6d423b55-67f8-42c9-9dee-caa73708d896: leaving unrecorded for a later run to retry.
+2026-10-22T14:13:12Z INFO [221/517] 6dd3f790-7418-47d7-9ae5-7f3679f118ab: cophenetic index 6825; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:13:13Z INFO [222/517] 6e57fa1a-95a7-49df-9468-55149679261b: cophenetic index 6182; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:13:16Z INFO [223/517] 6e9e5de9-c41d-4b3e-bb49-9526ea92b37e: cophenetic index 6193; 2.3 s; peak memory 177 MiB.
+2026-10-22T14:13:17Z INFO [224/517] 6f4b92f9-90e9-4d0c-aac4-bf922c6cf7f3: cophenetic index 6825; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:13:19Z INFO [225/517] 6fb86d8d-5460-45fb-ae46-0ecd7254b013: cophenetic index 6825; 2.0 s; peak memory 177 MiB.
+2026-10-22T14:13:21Z INFO [226/517] 6fe2563e-64bf-46b1-ae5f-ed0a1650413b: cophenetic index 6787; 1.2 s; peak memory 177 MiB.
+2026-10-22T14:13:22Z INFO [227/517] 701a9f49-b0ce-4320-9f65-f9d8d83860bc: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:13:23Z INFO [228/517] 704b9bcf-26af-4598-8729-a032efcf6d4b: cophenetic index 6830; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:13:24Z INFO [229/517] 706a8953-8e98-498b-b062-68d7426b4aa4: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:13:25Z INFO [230/517] 7115ef8e-5694-49a9-847d-c8eba3a64ef6: cophenetic index 6787; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:13:26Z INFO [231/517] 714791dd-ba4a-41ba-8ff0-d0db3d71394c: cophenetic index 6787; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:13:27Z INFO [232/517] 7168f89d-1b6a-439b-91ee-0472736ff100: cophenetic index 6787; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:13:29Z INFO [233/517] 718d7df5-8df3-4031-b06a-ac0fa1af290a: cophenetic index 6830; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:13:31Z INFO [234/517] 71d1a98d-360f-4200-b5ec-177fe87361fd: cophenetic index 6825; 2.1 s; peak memory 177 MiB.
+2026-10-22T14:13:33Z INFO [235/517] 720df118-478f-49c1-be09-8377692b8811: cophenetic index 6200; 1.4 s; peak memory 177 MiB.
+2026-10-22T14:13:34Z WARNING 735c7449-7e23-44fa-8990-d5c55f725aa2: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:13:34Z WARNING [236/517] 735c7449-7e23-44fa-8990-d5c55f725aa2: leaving unrecorded for a later run to retry.
+2026-10-22T14:13:35Z INFO [237/517] 7415c63e-040a-4452-8c93-6ad3635ae0be: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:13:37Z INFO [238/517] 74adaa44-b90e-4b45-8227-2191613b17db: cophenetic index 6825; 2.4 s; peak memory 177 MiB.
+2026-10-22T14:13:38Z INFO [239/517] 75d5299b-be3b-40e5-9f1e-65e1500383b4: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:13:39Z WARNING 75dc9b6e-40d1-4c10-8d75-71e6d60a1109: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:13:39Z WARNING [240/517] 75dc9b6e-40d1-4c10-8d75-71e6d60a1109: leaving unrecorded for a later run to retry.
+2026-10-22T14:13:41Z WARNING 75e93a30-06d1-4377-ac24-e439b70138bf: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:13:41Z WARNING [241/517] 75e93a30-06d1-4377-ac24-e439b70138bf: leaving unrecorded for a later run to retry.
+2026-10-22T14:13:42Z INFO [242/517] 766ec95d-b671-40ee-bf75-8a1c3381af90: cophenetic index 6825; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:13:44Z INFO [243/517] 7671eefa-19f0-4507-a4b5-2f529d811137: cophenetic index 6193; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:13:46Z INFO [244/517] 773bac92-6a75-4202-a774-fdbb08ffcd7c: cophenetic index 6798; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:13:47Z INFO [245/517] 77d8f8e4-b709-4f3f-b917-06ebf39175ad: cophenetic index 6200; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:13:49Z INFO [246/517] 77eda865-0867-4348-8833-87d7eb1ff1e2: cophenetic index 6787; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:13:50Z INFO [247/517] 7869daf4-1dfe-41ee-a92b-3d533428884b: cophenetic index 6787; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:13:51Z INFO [248/517] 7888f19d-a8aa-4b28-912f-f2819e8e21a1: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:13:53Z INFO [249/517] 798d92c2-f5c3-4088-833e-04eded0e826a: cophenetic index 6825; 2.1 s; peak memory 177 MiB.
+2026-10-22T14:13:54Z INFO [250/517] 79ca01e8-bf4d-43b9-a019-b3e2d38f4ecd: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:13:54Z INFO [250/517] 79ca01e8-bf4d-43b9-a019-b3e2d38f4ecd: checkpointed 176090 new records.
+2026-10-22T14:13:55Z WARNING 79d6c03f-a5ad-43d3-a8c3-a13e7b361f24: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:13:55Z WARNING [251/517] 79d6c03f-a5ad-43d3-a8c3-a13e7b361f24: leaving unrecorded for a later run to retry.
+2026-10-22T14:13:57Z INFO [252/517] 7ada2fb4-8f4d-4b9f-9e22-1e93c0f154bf: cophenetic index 6825; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:13:58Z INFO [253/517] 7c3c771e-9d7c-4ded-abe9-1c9916bd5b7e: cophenetic index 6661; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:13:59Z INFO [254/517] 7cb2cc11-dbd3-4bb9-b60d-221ff43a68e3: cophenetic index 6830; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:14:00Z INFO [255/517] 7e1772ea-e65c-4d3f-85e1-f9f63819418c: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:14:02Z INFO [256/517] 7ed49fb8-3266-4e8d-a109-ea0a21e6df37: cophenetic index 6200; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:14:04Z INFO [257/517] 7eefde82-964d-4e5f-9d63-b694ed4d2f3d: cophenetic index 6825; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:14:06Z INFO [258/517] 801af2b0-6e05-4a7a-97fa-75df0ca2c326: cophenetic index 6825; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:14:07Z INFO [259/517] 80b37d53-0bc4-4213-ad90-96e304122070: cophenetic index 6225; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:14:09Z WARNING 80e5eff2-6863-4038-9302-675d85163951: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:14:09Z WARNING [260/517] 80e5eff2-6863-4038-9302-675d85163951: leaving unrecorded for a later run to retry.
+2026-10-22T14:14:10Z INFO [261/517] 8100bf71-4885-4394-be1a-02e7d22fdd39: cophenetic index 6825; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:14:11Z INFO [262/517] 8291a0f1-820d-416c-b214-04436d575f01: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:14:12Z INFO [263/517] 8378620f-cf9b-41fe-a9c7-5b470c96d9ac: cophenetic index 6182; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:14:14Z INFO [264/517] 83b090d3-39c7-4e65-8926-580b09fc06df: cophenetic index 6193; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:14:16Z INFO [265/517] 84018c98-67e9-48b9-bf8b-3f4c8873b7ba: cophenetic index 6830; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:14:17Z WARNING 8485f502-7092-4934-80fe-dc37dd3a4c16: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:14:17Z WARNING [266/517] 8485f502-7092-4934-80fe-dc37dd3a4c16: leaving unrecorded for a later run to retry.
+2026-10-22T14:14:18Z INFO [267/517] 848a3753-3ce4-460e-8f00-56cf6ed730a5: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:14:19Z INFO [268/517] 8560b23f-e7cf-407f-b1b4-15028cf20236: cophenetic index 6182; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:14:20Z WARNING 85df85c4-6672-4675-9bb8-5e82e44e0f88: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:14:20Z WARNING [269/517] 85df85c4-6672-4675-9bb8-5e82e44e0f88: leaving unrecorded for a later run to retry.
+2026-10-22T14:14:21Z INFO [270/517] 86038282-33bb-483f-8bc4-89f21d7d7849: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:14:22Z INFO [271/517] 86ea73e6-b31b-4403-bcd8-bf99186e626e: cophenetic index 716; 0.7 s; peak memory 177 MiB.
+2026-10-22T14:14:23Z INFO [272/517] 86f45877-7872-4668-b421-12475a9fbb4b: cophenetic index 6830; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:14:25Z INFO [273/517] 87d23b71-d3ee-4110-b0c5-513efd5178ae: cophenetic index 6825; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:14:27Z INFO [274/517] 87d66161-fefe-4dfd-a154-7c66a979b006: cophenetic index 6193; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:14:29Z INFO [275/517] 87f2be0f-11a4-4973-bf60-9e0280556cc6: cophenetic index 6830; 2.2 s; peak memory 177 MiB.
+2026-10-22T14:14:30Z WARNING 87fdf428-ebbd-4376-85b5-341f14f18593: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:14:30Z WARNING [276/517] 87fdf428-ebbd-4376-85b5-341f14f18593: leaving unrecorded for a later run to retry.
+2026-10-22T14:14:33Z INFO [277/517] 881011a5-5e7a-4688-b839-6bf30a8d4b4e: cophenetic index 6825; 3.0 s; peak memory 177 MiB.
+2026-10-22T14:14:34Z INFO [278/517] 8863d505-2f1f-40a2-b2b1-bcea1624659c: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:14:35Z INFO [279/517] 89dc3539-ad92-4823-a1f3-2115dad7eaab: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:14:37Z INFO [280/517] 89e933e3-e14f-4e65-8d75-3f69bc480cf2: cophenetic index 6798; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:14:38Z INFO [281/517] 89fd5d83-505b-4e66-8e63-a992ff76e9cb: cophenetic index 6193; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:14:41Z INFO [282/517] 8a7ea551-2539-405d-8bef-9d1a748de1f0: cophenetic index 6200; 2.3 s; peak memory 177 MiB.
+2026-10-22T14:14:42Z INFO [283/517] 8a90043b-5854-401e-b1a4-541e30d162fa: cophenetic index 6200; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:14:44Z INFO [284/517] 8aa60b64-4d33-4b1a-a47e-faccb6d470ad: cophenetic index 6830; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:14:45Z INFO [285/517] 8b868cab-1e35-4098-b471-eba8fc26b7ae: cophenetic index 6787; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:14:47Z INFO [286/517] 8c2eead9-8c4e-4b56-b895-ae133a899848: cophenetic index 6830; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:14:49Z INFO [287/517] 8c847190-fe90-4bb6-8315-836295b2feb8: cophenetic index 6825; 2.0 s; peak memory 177 MiB.
+2026-10-22T14:14:50Z INFO [288/517] 8dbe2a1a-815a-483b-a149-10832198fb8b: cophenetic index 6182; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:14:52Z INFO [289/517] 8eca0275-d0fd-4bce-9c10-526c046fc098: cophenetic index 6830; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:14:53Z WARNING 8f0183a2-f90f-4b15-8fac-1ca3a404a100: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:14:53Z WARNING [290/517] 8f0183a2-f90f-4b15-8fac-1ca3a404a100: leaving unrecorded for a later run to retry.
+2026-10-22T14:14:54Z INFO [291/517] 8f351d6c-2a3b-4d79-941a-843eaf8b3021: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:14:56Z INFO [292/517] 8f3f6633-aefc-4f9e-b4cd-2ac327e94f18: cophenetic index 6225; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:14:57Z INFO [293/517] 8f9672a4-ef3f-4881-a28a-7eccecd743c1: cophenetic index 6825; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:14:59Z INFO [294/517] 90185114-6fea-4b83-a46b-ed4188b69dd4: cophenetic index 6830; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:15:00Z WARNING 9078e86c-42d8-47e9-a68b-72aaef5868b8: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:15:00Z WARNING [295/517] 9078e86c-42d8-47e9-a68b-72aaef5868b8: leaving unrecorded for a later run to retry.
+2026-10-22T14:15:02Z WARNING 907b3a91-92b0-49da-9d8a-a9ce5b752d18: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:15:02Z WARNING [296/517] 907b3a91-92b0-49da-9d8a-a9ce5b752d18: leaving unrecorded for a later run to retry.
+2026-10-22T14:15:04Z INFO [297/517] 919a6238-9b7a-4fab-922f-7f0654db44a7: cophenetic index 6825; 2.1 s; peak memory 177 MiB.
+2026-10-22T14:15:05Z WARNING 91d0f104-6918-47ae-8959-2116c86ee157: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:15:05Z WARNING [298/517] 91d0f104-6918-47ae-8959-2116c86ee157: leaving unrecorded for a later run to retry.
+2026-10-22T14:15:07Z INFO [299/517] 91da4bcd-235c-4b82-88e6-4f63f15e7ccf: cophenetic index 6969; 2.1 s; peak memory 177 MiB.
+2026-10-22T14:15:09Z INFO [300/517] 92565041-c307-43c4-88a1-afbbc9c5c559: cophenetic index 6830; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:15:09Z INFO [300/517] 92565041-c307-43c4-88a1-afbbc9c5c559: checkpointed 176131 new records.
+2026-10-22T14:15:10Z INFO [301/517] 92f49660-d33c-45f3-a7d9-a6ba8a3cf41a: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:15:12Z INFO [302/517] 938f9def-aa68-417e-8b10-3760d26890e3: cophenetic index 6825; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:15:14Z INFO [303/517] 93c4c9ad-6960-4562-813b-c7bd17da1510: cophenetic index 6830; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:15:15Z INFO [304/517] 9444a34f-ba6a-4cd8-9f8a-92fc2de3e39e: cophenetic index 6825; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:15:17Z INFO [305/517] 9470e596-b65c-4b00-b7ac-c9ebf9cbcda5: cophenetic index 6225; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:15:18Z INFO [306/517] 951ea0b0-7c3a-45d2-abe9-a74bb28cff38: cophenetic index 6076; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:15:18Z INFO [307/517] 959b676a-3ce6-484b-9e2e-33dac52b1e30: cophenetic index 734; 0.6 s; peak memory 177 MiB.
+2026-10-22T14:15:19Z INFO [308/517] 95bb00d6-4dea-414c-bbe1-a79f5480a5f1: cophenetic index 6787; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:15:21Z WARNING 969e4747-5a03-4948-bad1-05be9db18f9a: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:15:21Z WARNING [309/517] 969e4747-5a03-4948-bad1-05be9db18f9a: leaving unrecorded for a later run to retry.
+2026-10-22T14:15:22Z WARNING 96fcc9d3-cbe9-4aaa-986b-aaaf8831ed40: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:15:22Z WARNING [310/517] 96fcc9d3-cbe9-4aaa-986b-aaaf8831ed40: leaving unrecorded for a later run to retry.
+2026-10-22T14:15:24Z INFO [311/517] 9733dec0-eec6-45db-a4dd-85d588b1f4a0: cophenetic index 6825; 2.0 s; peak memory 177 MiB.
+2026-10-22T14:15:25Z INFO [312/517] 98824f09-376e-406e-861a-655980e539ec: cophenetic index 6787; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:15:26Z WARNING 98c46e12-f90f-4286-b1c2-15acdc057e25: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:15:26Z WARNING [313/517] 98c46e12-f90f-4286-b1c2-15acdc057e25: leaving unrecorded for a later run to retry.
+2026-10-22T14:15:27Z INFO [314/517] 99792b01-a690-4382-88d4-54eeba64ba2e: cophenetic index 734; 0.7 s; peak memory 177 MiB.
+2026-10-22T14:15:28Z INFO [315/517] 99e8a565-7a8a-4f21-a81e-d046e3a6d726: cophenetic index 6076; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:15:29Z INFO [316/517] 9a26a928-47a1-4638-8868-48f09da188c4: cophenetic index 6193; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:15:31Z INFO [317/517] 9b3c9267-be09-4cc1-b4a0-88b217610b77: cophenetic index 6825; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:15:32Z INFO [318/517] 9d615300-2f98-45dc-8595-6fd9f2aa99a3: cophenetic index 6193; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:15:34Z INFO [319/517] 9e96f5b5-75f0-46c3-961c-93f8593367af: cophenetic index 6825; 2.2 s; peak memory 177 MiB.
+2026-10-22T14:15:36Z WARNING 9f0feaa9-adb3-4487-afb9-d4f49f1acdc6: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:15:36Z WARNING [320/517] 9f0feaa9-adb3-4487-afb9-d4f49f1acdc6: leaving unrecorded for a later run to retry.
+2026-10-22T14:15:38Z INFO [321/517] 9f6463e5-d1c7-4159-b46e-09f6417d3891: cophenetic index 6830; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:15:39Z INFO [322/517] 9f71c5da-c949-40c7-85a5-50489fc472e4: cophenetic index 6798; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:15:41Z INFO [323/517] 9f9d60dc-1689-4c17-aa00-b6073b5fea58: cophenetic index 6830; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:15:42Z INFO [324/517] a0821c02-c152-4c39-8fd1-f72ce12cd4ed: cophenetic index 6661; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:15:44Z INFO [325/517] a11c1186-ecb5-46ce-825e-2548a822a000: cophenetic index 6830; 2.0 s; peak memory 177 MiB.
+2026-10-22T14:15:46Z INFO [326/517] a244e511-3bf9-4b0d-9abc-632d178f5f6e: cophenetic index 6825; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:15:47Z INFO [327/517] a2e1beba-8718-46a0-8022-29cc56f523b8: cophenetic index 6830; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:15:48Z INFO [328/517] a3366b60-7414-494c-860e-2ee13bf4c3cd: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:15:50Z INFO [329/517] a4685981-07af-46fb-b523-c7bdaceddd0f: cophenetic index 6798; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:15:51Z INFO [330/517] a4c6d479-0ba6-4d4f-aa36-4e046431b6f6: cophenetic index 6787; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:15:52Z WARNING a5c144c2-f4f0-4c1e-9c08-2b521f863a3b: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:15:52Z WARNING [331/517] a5c144c2-f4f0-4c1e-9c08-2b521f863a3b: leaving unrecorded for a later run to retry.
+2026-10-22T14:15:54Z INFO [332/517] a655b5a1-3233-432e-ae5e-86f82af68551: cophenetic index 6825; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:15:55Z INFO [333/517] a69535b1-347e-49e6-a875-7b22cbe7cc40: cophenetic index 6093; 1.2 s; peak memory 177 MiB.
+2026-10-22T14:15:57Z INFO [334/517] a6c62f74-5194-4455-ad04-315a020ee582: cophenetic index 6825; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:15:59Z INFO [335/517] a7634874-9fce-4ea1-86f3-03c3e37f9a05: cophenetic index 6825; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:16:00Z INFO [336/517] a8613476-143e-423b-be93-039b569c5768: cophenetic index 6825; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:16:02Z WARNING a8b6a037-6a71-4569-91a5-b9a166b789a9: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:16:02Z WARNING [337/517] a8b6a037-6a71-4569-91a5-b9a166b789a9: leaving unrecorded for a later run to retry.
+2026-10-22T14:16:03Z INFO [338/517] a8f5ed16-154f-44b7-9968-0f02bb294def: cophenetic index 6798; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:16:05Z INFO [339/517] a9048885-cdee-4e1d-bb05-004a4d2dd1d6: cophenetic index 6825; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:16:07Z INFO [340/517] a93b8ddd-0671-4b3b-a811-39c222cfbabf: cophenetic index 6830; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:16:09Z INFO [341/517] aa0a3a8e-11f8-45f3-95bc-b985f934eaa9: cophenetic index 6200; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:16:10Z INFO [342/517] ab60eb8d-2384-4cb3-ad82-fe31782af818: cophenetic index 6787; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:16:12Z INFO [343/517] ab8252dc-36f2-4d8c-9902-a41a3b4802ff: cophenetic index 6825; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:16:13Z INFO [344/517] ac748b8b-6e00-43cb-b1c6-3e84ce9df09c: cophenetic index 6825; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:16:14Z WARNING ad5b0970-92ee-45ed-9ade-ec72ab7c0c43: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:16:14Z WARNING [345/517] ad5b0970-92ee-45ed-9ade-ec72ab7c0c43: leaving unrecorded for a later run to retry.
+2026-10-22T14:16:16Z INFO [346/517] adc8954f-9222-493f-88d7-956f6d7ef313: cophenetic index 6830; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:16:17Z WARNING af8f8d1e-890e-40fb-8b99-bcfbd9dafa86: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:16:17Z WARNING [347/517] af8f8d1e-890e-40fb-8b99-bcfbd9dafa86: leaving unrecorded for a later run to retry.
+2026-10-22T14:16:18Z INFO [348/517] affbd1aa-9df6-492e-96d5-86d1d45b6fad: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:16:19Z INFO [349/517] affcddaa-dd78-49d6-b89a-1df2a440ff92: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:16:20Z INFO [350/517] b0a81b6c-2519-4e89-9cc3-c33dea9ca71c: cophenetic index 6787; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:16:20Z INFO [350/517] b0a81b6c-2519-4e89-9cc3-c33dea9ca71c: checkpointed 176173 new records.
+2026-10-22T14:16:21Z INFO [351/517] b0fd4e16-16a1-42e7-a303-39c31962a887: cophenetic index 6830; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:16:22Z INFO [352/517] b1992c28-1dd9-4b2d-b86a-b15b8883e024: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:16:23Z INFO [353/517] b1e0f710-df5b-47b6-a71e-3020ea3cb616: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:16:25Z INFO [354/517] b206d3cf-23f0-4d4c-ace1-ba96468e385c: cophenetic index 6200; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:16:27Z INFO [355/517] b2d8241b-acbd-493e-bbca-b0db03589928: cophenetic index 6825; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:16:28Z INFO [356/517] b31d9f46-e8a9-41e2-ba58-feaa59ee7e8b: cophenetic index 6076; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:16:29Z WARNING b359ad1b-7ba4-48e8-a318-3a5df59e0611: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:16:29Z WARNING [357/517] b359ad1b-7ba4-48e8-a318-3a5df59e0611: leaving unrecorded for a later run to retry.
+2026-10-22T14:16:30Z INFO [358/517] b3b14cdf-bcc3-4e17-936a-83f803370be0: cophenetic index 6787; 1.2 s; peak memory 177 MiB.
+2026-10-22T14:16:31Z INFO [359/517] b48ad6e3-1d7f-4fdb-8308-d140834ff39f: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:16:32Z INFO [360/517] b4918abb-7c33-4dbd-8ed6-5b6f2450459c: cophenetic index 6787; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:16:33Z INFO [361/517] b4b89d95-1e52-4876-8ad6-f66b10d997e4: cophenetic index 6182; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:16:34Z INFO [362/517] b60a6dc7-10e5-47b0-a7e2-132907a66001: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:16:35Z INFO [363/517] b7769850-cd50-4a24-b854-322df5ee1f8b: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:16:37Z INFO [364/517] b7df8524-4d38-4373-adec-e24897508df2: cophenetic index 6825; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:16:39Z INFO [365/517] b881a50f-436c-4a42-9efc-4b7e385265a5: cophenetic index 6825; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:16:40Z INFO [366/517] b8990686-cafb-4e59-bc48-4fbc2e2b6948: cophenetic index 6830; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:16:42Z WARNING b90ff2fd-f7e7-41b9-939a-f8612e2c9ba9: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:16:42Z WARNING [367/517] b90ff2fd-f7e7-41b9-939a-f8612e2c9ba9: leaving unrecorded for a later run to retry.
+2026-10-22T14:16:44Z INFO [368/517] b93d2b4a-0e75-4df4-9b30-f51a684f5008: cophenetic index 6830; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:16:45Z INFO [369/517] b9793daf-dbe6-4fc1-aee5-a5158392ce93: cophenetic index 6787; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:16:47Z INFO [370/517] ba47bb72-61a7-4da5-b088-38fcd5a55f78: cophenetic index 6825; 2.2 s; peak memory 177 MiB.
+2026-10-22T14:16:48Z INFO [371/517] ba61634f-cab0-4755-abb2-f4e47fef78e8: cophenetic index 6200; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:16:50Z INFO [372/517] bab0469f-a291-43f8-af86-5a61ada38c1f: cophenetic index 6182; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:16:51Z INFO [373/517] bb041643-d4e2-4d10-8933-d6fac7e61891: cophenetic index 6825; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:16:54Z INFO [374/517] bb536479-09dc-41dc-8fcb-b8678db29e7b: cophenetic index 6225; 3.0 s; peak memory 177 MiB.
+2026-10-22T14:16:56Z INFO [375/517] bd5ef4f7-a4f0-47da-a64a-24fd2a479354: cophenetic index 6787; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:16:58Z INFO [376/517] bd72541d-2913-4e9c-ae77-1a326fe58281: cophenetic index 6825; 2.0 s; peak memory 177 MiB.
+2026-10-22T14:16:59Z INFO [377/517] bdb03f27-08ed-4842-b5d6-3f6d0020240e: cophenetic index 6787; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:17:00Z INFO [378/517] be3bfc4b-f141-4b95-a56f-50e1b5d21110: cophenetic index 6076; 0.8 s; peak memory 177 MiB.
+2026-10-22T14:17:04Z INFO [379/517] be464d17-6377-49fd-82ed-0fae5a40f2ce: cophenetic index 6825; 4.1 s; peak memory 177 MiB.
+2026-10-22T14:17:06Z INFO [380/517] be7dc998-140e-47d8-8b7d-94cbc04c0ea8: cophenetic index 6200; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:17:06Z INFO [381/517] bee3f8f5-5005-44a1-b9c2-427d4321d16c: cophenetic index 734; 0.7 s; peak memory 177 MiB.
+2026-10-22T14:17:08Z INFO [382/517] c10aff8d-2284-40fa-96f9-190e738a7642: cophenetic index 6830; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:17:10Z INFO [383/517] c27d1893-3971-4a73-aec0-e5257bed5dcd: cophenetic index 6798; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:17:11Z INFO [384/517] c29c5bf6-1118-42ae-8d29-5e75cc2485ce: cophenetic index 6825; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:17:12Z INFO [385/517] c2d70395-157c-4bbf-8f35-87e8c8b9c078: cophenetic index 6076; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:17:14Z WARNING c30d8e04-35d5-46ae-89c1-f0ad78152437: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:17:14Z WARNING [386/517] c30d8e04-35d5-46ae-89c1-f0ad78152437: leaving unrecorded for a later run to retry.
+2026-10-22T14:17:16Z INFO [387/517] c3101b1f-c4dc-4ddb-931e-2f47e95668d7: cophenetic index 6825; 2.0 s; peak memory 177 MiB.
+2026-10-22T14:17:17Z INFO [388/517] c32d8bca-72b4-4b8d-a8fe-848d2bcbf075: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:17:18Z INFO [389/517] c334a056-17d0-477c-b8e6-a3cad15e22a6: cophenetic index 6798; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:17:20Z INFO [390/517] c397b5d3-6bfc-4048-8938-08299342a516: cophenetic index 6225; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:17:22Z INFO [391/517] c4570892-6418-4e8e-bf32-b13cd042aead: cophenetic index 6830; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:17:23Z INFO [392/517] c59d5f6f-ee3d-4ccd-ac4e-cbab5f038f5f: cophenetic index 6825; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:17:25Z INFO [393/517] c697f9e9-8437-43c8-bf07-1658feb85779: cophenetic index 6825; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:17:26Z WARNING c75892b0-e896-47ce-9be6-aaf7fff0b0bc: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:17:26Z WARNING [394/517] c75892b0-e896-47ce-9be6-aaf7fff0b0bc: leaving unrecorded for a later run to retry.
+2026-10-22T14:17:28Z INFO [395/517] c8184671-207c-4c5d-8ce4-8e53f0b21846: cophenetic index 6825; 2.1 s; peak memory 177 MiB.
+2026-10-22T14:17:30Z INFO [396/517] c824c9c3-2bfa-48f6-9bb6-384bb066a81e: cophenetic index 6200; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:17:32Z INFO [397/517] c8d4f53f-4354-49c1-8d82-c671fbb4a46f: cophenetic index 6798; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:17:34Z INFO [398/517] c8ee222f-107a-4898-a668-b8710937865c: cophenetic index 6200; 2.3 s; peak memory 177 MiB.
+2026-10-22T14:17:36Z INFO [399/517] c92cc57e-992d-41ac-8394-2661fc1dd8be: cophenetic index 6225; 1.4 s; peak memory 177 MiB.
+2026-10-22T14:17:37Z INFO [400/517] c9e368e4-b084-469a-9d82-c2848558b376: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:17:37Z INFO [400/517] c9e368e4-b084-469a-9d82-c2848558b376: checkpointed 176219 new records.
+2026-10-22T14:17:39Z INFO [401/517] caba2238-7c1f-412b-b0d6-5b7a7381336c: cophenetic index 6825; 2.1 s; peak memory 177 MiB.
+2026-10-22T14:17:40Z INFO [402/517] cb200758-4ce8-4622-8bf8-649becf624e8: cophenetic index 6182; 1.2 s; peak memory 177 MiB.
+2026-10-22T14:17:42Z INFO [403/517] cb4938c1-21f4-4940-b483-ef3e023fe1e2: cophenetic index 6825; 2.1 s; peak memory 177 MiB.
+2026-10-22T14:17:44Z INFO [404/517] cced497c-0408-4fbe-9e3b-7b736b6a5c47: cophenetic index 6200; 2.3 s; peak memory 177 MiB.
+2026-10-22T14:17:46Z INFO [405/517] cd1d5285-cbed-41d5-a50f-2c292e293f80: cophenetic index 6825; 2.1 s; peak memory 177 MiB.
+2026-10-22T14:17:48Z INFO [406/517] cd559fd1-31e9-4d93-b356-dc52b6cb6fd1: cophenetic index 6787; 1.3 s; peak memory 177 MiB.
+2026-10-22T14:17:49Z INFO [407/517] cd83a16e-1221-4ce7-b795-90a286e43184: cophenetic index 6825; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:17:51Z INFO [408/517] ce051deb-9d78-4c88-8cc2-70b47158a8d4: cophenetic index 6798; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:17:52Z INFO [409/517] ce192545-7fbd-45ec-9f3c-c039c4098dd6: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:17:53Z WARNING ced3426c-8c04-4668-a901-8fb5c9b9e30a: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:17:53Z WARNING [410/517] ced3426c-8c04-4668-a901-8fb5c9b9e30a: leaving unrecorded for a later run to retry.
+2026-10-22T14:17:55Z WARNING cf14fab4-8ffa-4429-9633-4621077abaf8: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:17:55Z WARNING [411/517] cf14fab4-8ffa-4429-9633-4621077abaf8: leaving unrecorded for a later run to retry.
+2026-10-22T14:17:56Z INFO [412/517] cf27cba8-e52c-4bb9-bb6f-bb38509d030c: cophenetic index 6787; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:17:57Z WARNING cf2e939f-f590-43e2-b209-c14bcd9ec7be: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:17:57Z WARNING [413/517] cf2e939f-f590-43e2-b209-c14bcd9ec7be: leaving unrecorded for a later run to retry.
+2026-10-22T14:17:58Z INFO [414/517] cf3b4770-729f-42ad-ae4f-29c42b8b80d2: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:17:59Z INFO [415/517] cfa4cdb8-7f0f-47cd-b102-9393c9a7967b: cophenetic index 6787; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:18:01Z INFO [416/517] d016cc4f-3e7a-4dea-a9cf-95458895b744: cophenetic index 6200; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:18:03Z INFO [417/517] d04f085f-9f97-4eef-8a53-afb581b1a7a9: cophenetic index 6825; 2.0 s; peak memory 177 MiB.
+2026-10-22T14:18:04Z WARNING d082e3f4-951c-4756-a246-45664b4b6617: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:18:04Z WARNING [418/517] d082e3f4-951c-4756-a246-45664b4b6617: leaving unrecorded for a later run to retry.
+2026-10-22T14:18:06Z INFO [419/517] d173fe00-e0cc-4939-ae13-8c0b25d0906e: cophenetic index 6787; 1.2 s; peak memory 177 MiB.
+2026-10-22T14:18:06Z INFO [420/517] d18cc66e-7cde-4420-a26a-3059b56d80ec: cophenetic index 6076; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:18:08Z WARNING d1b31cf9-4a0a-4d3b-b7b6-209a40241c19: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:18:08Z WARNING [421/517] d1b31cf9-4a0a-4d3b-b7b6-209a40241c19: leaving unrecorded for a later run to retry.
+2026-10-22T14:18:09Z INFO [422/517] d2552239-190e-4f1c-8d4b-fa763d67b7d6: cophenetic index 6200; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:18:12Z INFO [423/517] d284b94c-e008-4a45-bdb0-6ef210625ac5: cophenetic index 6969; 2.1 s; peak memory 177 MiB.
+2026-10-22T14:18:13Z INFO [424/517] d2d8dc5d-0107-413d-b824-05f2da0346ba: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:18:15Z INFO [425/517] d2e795cf-f07f-4372-94a9-e34d0f7a744c: cophenetic index 6825; 2.3 s; peak memory 177 MiB.
+2026-10-22T14:18:15Z INFO [426/517] d31c22e8-c130-40c2-81e1-6db06340de35: cophenetic index 734; 0.6 s; peak memory 177 MiB.
+2026-10-22T14:18:17Z INFO [427/517] d39aa0a7-f75b-4d05-90b8-31a9bfa53f87: cophenetic index 6200; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:18:18Z WARNING d40f5b68-7e95-4fd2-9b61-fcc7804b6b27: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:18:18Z WARNING [428/517] d40f5b68-7e95-4fd2-9b61-fcc7804b6b27: leaving unrecorded for a later run to retry.
+2026-10-22T14:18:20Z INFO [429/517] d41b6a8c-d968-4d4d-ac22-6bccb629cc5b: cophenetic index 6825; 2.0 s; peak memory 177 MiB.
+2026-10-22T14:18:22Z INFO [430/517] d561567d-663d-4fcd-97bf-799e7d526547: cophenetic index 6825; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:18:24Z INFO [431/517] d6c28853-a818-4793-85ae-323566a346b4: cophenetic index 6825; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:18:25Z WARNING d73cb2c7-2e04-4c75-ba50-9b634dc8e8fb: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:18:25Z WARNING [432/517] d73cb2c7-2e04-4c75-ba50-9b634dc8e8fb: leaving unrecorded for a later run to retry.
+2026-10-22T14:18:28Z INFO [433/517] d77c3952-07b6-4748-9da9-11655beba6c5: cophenetic index 6825; 2.9 s; peak memory 177 MiB.
+2026-10-22T14:18:32Z INFO [434/517] d7e5c790-0611-4684-9760-493f6a354067: cophenetic index 6825; 4.0 s; peak memory 177 MiB.
+2026-10-22T14:18:33Z INFO [435/517] db373b2d-01b4-45f4-9d0f-a1cae22e27a1: cophenetic index 6787; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:18:34Z INFO [436/517] db8c2a04-46ec-43df-8547-62310a36fded: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:18:36Z INFO [437/517] dbb3d2df-442f-4172-98f6-10af18fc1019: cophenetic index 6200; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:18:38Z INFO [438/517] dc1b5d9d-8633-44ba-9c9c-d4efe2aac41a: cophenetic index 6200; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:18:40Z INFO [439/517] dc98263e-1840-4533-b9b0-c6611dd3af25: cophenetic index 6193; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:18:41Z INFO [440/517] dcc9c6c8-148d-4909-a289-f6f50da1dd43: cophenetic index 6825; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:18:43Z INFO [441/517] dd64d1c0-c3b2-48eb-af39-ad644e90f02d: cophenetic index 6830; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:18:45Z INFO [442/517] df8e48ac-ad2b-462b-861a-d10198f8be40: cophenetic index 6787; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:18:46Z WARNING e0405d5b-a2a4-4a81-b77d-85e24bf8aaba: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:18:46Z WARNING [443/517] e0405d5b-a2a4-4a81-b77d-85e24bf8aaba: leaving unrecorded for a later run to retry.
+2026-10-22T14:18:47Z INFO [444/517] e043beb1-7912-40d2-9eae-e2c298bb1f5e: cophenetic index 734; 0.7 s; peak memory 177 MiB.
+2026-10-22T14:18:48Z INFO [445/517] e157566b-18fe-4e69-88da-6af8166cf1fb: cophenetic index 6182; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:18:49Z INFO [446/517] e19620b2-e863-4a40-a7f5-9dab72021500: cophenetic index 6830; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:18:50Z INFO [447/517] e1b99d5e-f6e2-4930-a578-c1c5be32c21e: cophenetic index 6787; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:18:51Z INFO [448/517] e232d9bd-d492-4ac2-b30e-1fff45db21ba: cophenetic index 6787; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:18:53Z INFO [449/517] e29b8cb0-f259-4323-a8b0-dccaa581b15d: cophenetic index 6825; 2.0 s; peak memory 177 MiB.
+2026-10-22T14:18:55Z INFO [450/517] e2ebc457-3c31-463d-b387-b2e6400c923e: cophenetic index 6193; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:18:55Z INFO [450/517] e2ebc457-3c31-463d-b387-b2e6400c923e: checkpointed 176261 new records.
+2026-10-22T14:18:58Z INFO [451/517] e347a793-2264-4bd9-9240-5a9d7e8c42df: cophenetic index 6798; 2.2 s; peak memory 177 MiB.
+2026-10-22T14:18:58Z INFO [452/517] e3b4ca9b-44ea-4474-b684-dcc4e6d8e907: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:19:01Z INFO [453/517] e3be7657-d9d2-45c5-ac82-acb048614271: cophenetic index 6200; 2.1 s; peak memory 177 MiB.
+2026-10-22T14:19:01Z INFO [454/517] e4648191-f43c-47d1-ac6b-b9485a1c2247: cophenetic index 734; 0.8 s; peak memory 177 MiB.
+2026-10-22T14:19:03Z INFO [455/517] e5b802a5-f735-4d07-be18-d1f313086a8a: cophenetic index 6825; 2.0 s; peak memory 177 MiB.
+2026-10-22T14:19:08Z INFO [456/517] e63ca951-cf21-451b-8310-2a1ad6d8b192: cophenetic index 6825; 4.6 s; peak memory 177 MiB.
+2026-10-22T14:19:10Z INFO [457/517] e71a443d-d6f2-4fcb-968b-b3d6db2dab03: cophenetic index 6200; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:19:11Z INFO [458/517] e7a779ad-cddd-4c5d-9358-15b01f6d21c5: cophenetic index 6825; 1.4 s; peak memory 177 MiB.
+2026-10-22T14:19:13Z INFO [459/517] e8440ce4-f4a5-4e47-8b80-33d76af1f3cd: cophenetic index 6200; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:19:15Z INFO [460/517] e879393e-39dd-46ff-b1c1-69dcb5faf657: cophenetic index 6798; 2.1 s; peak memory 177 MiB.
+2026-10-22T14:19:16Z INFO [461/517] e884b6c8-e0a0-43a3-8716-8b825239de98: cophenetic index 6182; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:19:18Z INFO [462/517] e9174ec6-e280-4fa2-b83a-d8d1ffd52e8b: cophenetic index 6830; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:19:19Z WARNING e9d08dad-69f2-41af-95a7-8c926d323241: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:19:19Z WARNING [463/517] e9d08dad-69f2-41af-95a7-8c926d323241: leaving unrecorded for a later run to retry.
+2026-10-22T14:19:21Z INFO [464/517] ea36dc45-03a9-4e42-b755-55f4ce44a016: cophenetic index 6787; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:19:23Z INFO [465/517] ea91852c-b1be-459b-930a-d7bdc0d50248: cophenetic index 6825; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:19:25Z INFO [466/517] eb581435-4147-4eba-a13f-42fbc6758094: cophenetic index 6200; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:19:26Z WARNING ec910d11-a407-4e11-b6b7-7e72bd6dcca7: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:19:26Z WARNING [467/517] ec910d11-a407-4e11-b6b7-7e72bd6dcca7: leaving unrecorded for a later run to retry.
+2026-10-22T14:19:27Z WARNING ecf5ec80-5d04-4618-8d36-5e8b6a518db7: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:19:27Z WARNING [468/517] ecf5ec80-5d04-4618-8d36-5e8b6a518db7: leaving unrecorded for a later run to retry.
+2026-10-22T14:19:29Z WARNING ed0ae43b-b9f4-49b7-80b0-b0e7e1bfe4b2: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:19:29Z WARNING [469/517] ed0ae43b-b9f4-49b7-80b0-b0e7e1bfe4b2: leaving unrecorded for a later run to retry.
+2026-10-22T14:19:31Z INFO [470/517] ed0d98ea-543d-4a9f-9594-2ece45d8a42c: cophenetic index 6825; 2.0 s; peak memory 177 MiB.
+2026-10-22T14:19:32Z INFO [471/517] ed1853d3-6a5f-4d9d-aa41-831d98b6d0b9: cophenetic index 6200; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:19:40Z INFO [472/517] ed302538-380b-4dea-aaa0-b35ca9192edc: cophenetic index 6825; 7.9 s; peak memory 177 MiB.
+2026-10-22T14:19:43Z INFO [473/517] ed3a583d-ccc8-4a58-8d14-be84edcdbecf: cophenetic index 6825; 2.8 s; peak memory 177 MiB.
+2026-10-22T14:19:45Z INFO [474/517] ed87abfe-0717-4233-8c69-79810c822812: cophenetic index 6830; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:19:46Z INFO [475/517] edeab308-5f18-4c91-abdb-010199e660ba: cophenetic index 6798; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:19:48Z INFO [476/517] ee3d8582-d30f-4044-acd7-3ee7c2055780: cophenetic index 6825; 1.9 s; peak memory 177 MiB.
+2026-10-22T14:19:49Z INFO [477/517] ee8bb8d3-42c0-43fb-92e3-854cee03ec8a: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:19:50Z INFO [478/517] ef8c3c3c-c16b-4148-b731-bfaf01434b06: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:19:52Z INFO [479/517] efc4f822-293a-451d-a856-728019bd88a7: cophenetic index 6200; 2.2 s; peak memory 177 MiB.
+2026-10-22T14:19:53Z INFO [480/517] efd44488-30a9-467e-83c7-7b6cde9fc257: cophenetic index 6182; 1.4 s; peak memory 177 MiB.
+2026-10-22T14:19:55Z INFO [481/517] f04e6df6-e565-46ef-8656-84776f45b16b: cophenetic index 6200; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:19:56Z WARNING f096214e-4bb0-48ca-8c77-fa5832318eae: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:19:56Z WARNING [482/517] f096214e-4bb0-48ca-8c77-fa5832318eae: leaving unrecorded for a later run to retry.
+2026-10-22T14:19:58Z INFO [483/517] f1bf53c4-8548-4226-8adf-21eaca3bdfc5: cophenetic index 6969; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:20:00Z INFO [484/517] f1c4f170-643e-49a2-85bb-9f9d70d51b63: cophenetic index 6193; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:20:01Z INFO [485/517] f254e4bb-bb1b-482a-9d50-0d1d0ae5354d: cophenetic index 6825; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:20:03Z WARNING f33dbc0f-9f9e-4645-ba23-6ddb643fd950: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:20:03Z WARNING [486/517] f33dbc0f-9f9e-4645-ba23-6ddb643fd950: leaving unrecorded for a later run to retry.
+2026-10-22T14:20:04Z INFO [487/517] f3e152ac-5495-4898-b09c-66d88ba930fa: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:20:05Z INFO [488/517] f4593380-97b5-400e-8ded-780741d64a69: cophenetic index 6182; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:20:07Z INFO [489/517] f4ad9948-f642-47c9-b1d6-a7895031102d: cophenetic index 6200; 2.0 s; peak memory 177 MiB.
+2026-10-22T14:20:08Z INFO [490/517] f4f20f0f-2147-4934-a2c0-c5fa7320cc78: cophenetic index 6787; 1.2 s; peak memory 177 MiB.
+2026-10-22T14:20:09Z INFO [491/517] f56ba16c-4ed6-49b1-908f-149fc7d845b1: cophenetic index 6200; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:20:10Z INFO [492/517] f5bdec72-b529-4836-ac60-dae6b08e2d04: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:20:11Z INFO [493/517] f5cccdcd-53a9-42fa-bf9f-c9dd5b6fd895: cophenetic index 6182; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:20:13Z INFO [494/517] f5d3d5ef-1002-4e58-8cf6-d9c11aca440b: cophenetic index 6825; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:20:15Z INFO [495/517] f61b6f0f-ec00-4c1c-b31d-0bbc54f7bca6: cophenetic index 6200; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:20:16Z INFO [496/517] f65a4281-baea-44ab-b83d-61fcdc2bebef: cophenetic index 6825; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:20:18Z INFO [497/517] f6d80f86-7492-4d45-8470-be62790120f6: cophenetic index 6830; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:20:20Z INFO [498/517] f710be2f-add4-463e-8e5c-ba91c2d55737: cophenetic index 6830; 2.1 s; peak memory 177 MiB.
+2026-10-22T14:20:23Z INFO [499/517] f72d44be-c901-47a6-ad3b-6f173a8fd18b: cophenetic index 6825; 2.8 s; peak memory 177 MiB.
+2026-10-22T14:20:25Z INFO [500/517] f7ead52e-08cf-4aaf-8ddb-4ceb957d87c5: cophenetic index 6193; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:20:25Z INFO [500/517] f7ead52e-08cf-4aaf-8ddb-4ceb957d87c5: checkpointed 176305 new records.
+2026-10-22T14:20:26Z INFO [501/517] f85f1793-fa04-487b-805b-74f6f639904b: cophenetic index 6825; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:20:28Z INFO [502/517] f8c30dbe-57a6-473a-9c78-298221eb5ead: cophenetic index 6182; 1.1 s; peak memory 177 MiB.
+2026-10-22T14:20:30Z INFO [503/517] f9259f6b-b2e8-4b8d-9ac0-2e51b22d1cc0: cophenetic index 6825; 2.5 s; peak memory 177 MiB.
+2026-10-22T14:20:32Z INFO [504/517] f932aee7-0747-4160-a156-859c73f9145a: cophenetic index 6200; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:20:33Z INFO [505/517] f9cd1f0b-f5b4-4f18-a95c-ab149e4b7430: cophenetic index 6787; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:20:33Z INFO [506/517] fa80b787-cc9f-4b78-b519-2ba37c3f1dda: cophenetic index 734; 0.6 s; peak memory 177 MiB.
+2026-10-22T14:20:34Z INFO [507/517] fab1059b-f351-4cb6-9673-99bafe0aed62: cophenetic index 716; 0.6 s; peak memory 177 MiB.
+2026-10-22T14:20:36Z INFO [508/517] fad124c7-1813-42d0-864f-b28830095b02: cophenetic index 6825; 1.7 s; peak memory 177 MiB.
+2026-10-22T14:20:37Z WARNING fba185e3-7f0f-490c-89da-5d6f063bbb64: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:20:37Z WARNING [509/517] fba185e3-7f0f-490c-89da-5d6f063bbb64: leaving unrecorded for a later run to retry.
+2026-10-22T14:20:39Z INFO [510/517] fbacb18b-3bb8-4e7f-8edc-d3283b0bdefd: cophenetic index 6825; 1.6 s; peak memory 177 MiB.
+2026-10-22T14:20:40Z INFO [511/517] fccca612-ea40-4c56-9fe3-e0ccf5d26f2c: cophenetic index 6825; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:20:43Z INFO [512/517] fe8104e1-8902-4d4b-84a2-70d337fad00b: cophenetic index 6825; 2.2 s; peak memory 177 MiB.
+2026-10-22T14:20:44Z WARNING fecca3e5-bf07-41fe-8342-06a92259564a: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-22T14:20:44Z WARNING [513/517] fecca3e5-bf07-41fe-8342-06a92259564a: leaving unrecorded for a later run to retry.
+2026-10-22T14:20:45Z INFO [514/517] fef28ddb-95f4-4936-a3fb-c222705bfefe: cophenetic index 6787; 1.0 s; peak memory 177 MiB.
+2026-10-22T14:20:46Z INFO [515/517] ff52236f-2b27-4218-8938-41cd0e75a0da: cophenetic index 6193; 1.5 s; peak memory 177 MiB.
+2026-10-22T14:20:48Z INFO [516/517] ffbae4b8-f886-4f39-bf65-8e60c152c4d9: cophenetic index 6798; 1.8 s; peak memory 177 MiB.
+2026-10-22T14:20:49Z INFO [517/517] ffdf3af8-a7c6-44f8-8264-1401f834119a: cophenetic index 6182; 0.9 s; peak memory 177 MiB.
+2026-10-22T14:20:49Z INFO Wrote 176320 records to /tmp/derivatives/valid_nwb_file_to_cophenetic_index.zarr (452 new, 65 failed) in 13.2 min (peak memory 251 MiB).
+2026-10-22T14:20:49Z INFO Progress: 176,297 of 176,362 candidates recorded (100.0%).
