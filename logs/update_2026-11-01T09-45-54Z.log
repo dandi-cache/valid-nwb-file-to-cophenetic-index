@@ -1,0 +1,169 @@
+2026-11-01T09:45:54Z INFO Logging to /tmp/logs/update_2026-11-01T09-45-54Z.log.
+2026-11-01T09:45:54Z INFO Update valid-nwb-file-to-cophenetic-index (base directory /tmp).
+2026-11-01T09:45:56Z INFO Processing 98 items (197317 already recorded).
+2026-11-01T09:45:58Z INFO [1/98] 003bfe28-feee-42a7-9098-3fea1aee9b40: cophenetic index 4100; 1.8 s; peak memory 200 MiB.
+2026-11-01T09:45:59Z INFO [2/98] 00dfa6db-5bb3-46a0-8a8c-b1c719f6d126: cophenetic index 4246; 1.4 s; peak memory 200 MiB.
+2026-11-01T09:46:00Z WARNING 024ef50f-ac6f-49ea-806b-93ef4b5e8644: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:00Z WARNING [3/98] 024ef50f-ac6f-49ea-806b-93ef4b5e8644: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:02Z INFO [4/98] 030f0167-b93e-4b48-bce8-c6ee97f48dc9: cophenetic index 4100; 1.7 s; peak memory 200 MiB.
+2026-11-01T09:46:03Z INFO [5/98] 07bcc807-709b-48a9-bc19-282d10b65cec: cophenetic index 4169; 1.3 s; peak memory 200 MiB.
+2026-11-01T09:46:05Z WARNING 09073220-fbea-45d2-9a39-2cc61fcdc2a1: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:05Z WARNING [6/98] 09073220-fbea-45d2-9a39-2cc61fcdc2a1: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:06Z INFO [7/98] 094065db-294f-425d-ae7a-58cfa6fc0690: cophenetic index 3904; 1.3 s; peak memory 200 MiB.
+2026-11-01T09:46:07Z INFO [8/98] 0a418fa2-0702-417f-ab9c-72b834424460: cophenetic index 3400; 1.2 s; peak memory 200 MiB.
+2026-11-01T09:46:09Z INFO [9/98] 0b3cb952-137f-467a-b68d-31d25dfc9a04: cophenetic index 4331; 1.4 s; peak memory 200 MiB.
+2026-11-01T09:46:10Z WARNING 0dec427d-4db4-44c3-988a-c37959ceaff3: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:10Z WARNING [10/98] 0dec427d-4db4-44c3-988a-c37959ceaff3: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:11Z WARNING 0f7396ad-67ec-468a-b6a6-5599cb507f54: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:11Z WARNING [11/98] 0f7396ad-67ec-468a-b6a6-5599cb507f54: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:13Z WARNING 1066b3ba-83d9-4cb3-bfe3-ecf8539e2334: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:13Z WARNING [12/98] 1066b3ba-83d9-4cb3-bfe3-ecf8539e2334: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:14Z WARNING 17a546c4-6425-4c56-a43e-9f9f272d299c: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:14Z WARNING [13/98] 17a546c4-6425-4c56-a43e-9f9f272d299c: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:16Z WARNING 19998990-d06f-40db-8d07-c5121b317b6a: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:16Z WARNING [14/98] 19998990-d06f-40db-8d07-c5121b317b6a: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:17Z WARNING 1a18ed31-9155-4512-919f-b6875d14b9f3: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:17Z WARNING [15/98] 1a18ed31-9155-4512-919f-b6875d14b9f3: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:18Z WARNING 1c2fff6f-f3a7-43fb-b7e2-a33218d41614: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:18Z WARNING [16/98] 1c2fff6f-f3a7-43fb-b7e2-a33218d41614: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:20Z INFO [17/98] 1da25a5c-6b24-4734-ac99-95c855d2d89a: cophenetic index 4039; 1.7 s; peak memory 200 MiB.
+2026-11-01T09:46:22Z WARNING 20b5d243-5a61-4246-a5d5-ac9d9068183d: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:22Z WARNING [18/98] 20b5d243-5a61-4246-a5d5-ac9d9068183d: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:23Z WARNING 20e4b649-b593-4ee3-bd02-f0645aad7021: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:23Z WARNING [19/98] 20e4b649-b593-4ee3-bd02-f0645aad7021: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:25Z INFO [20/98] 236f358c-e02a-4c49-8402-4013a42b3c4c: cophenetic index 4246; 1.5 s; peak memory 200 MiB.
+2026-11-01T09:46:26Z WARNING 2420003b-b350-4a69-b1aa-b27f68179823: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:26Z WARNING [21/98] 2420003b-b350-4a69-b1aa-b27f68179823: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:28Z WARNING 2a76c0ae-11ba-4712-bfc9-5a1534c26aeb: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:28Z WARNING [22/98] 2a76c0ae-11ba-4712-bfc9-5a1534c26aeb: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:29Z WARNING 319d22c8-6c6e-41bb-9bf9-9c6773d2b2ad: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:29Z WARNING [23/98] 319d22c8-6c6e-41bb-9bf9-9c6773d2b2ad: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:31Z WARNING 324ccb4d-b81e-4dbb-a29d-ef474eef0d50: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:31Z WARNING [24/98] 324ccb4d-b81e-4dbb-a29d-ef474eef0d50: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:32Z WARNING 3b2672c0-01e2-4e2a-a6fd-09535b8afd67: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:32Z WARNING [25/98] 3b2672c0-01e2-4e2a-a6fd-09535b8afd67: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:34Z WARNING 3dec1e5e-7a4c-4aaa-95eb-7a953aa18d59: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:34Z WARNING [26/98] 3dec1e5e-7a4c-4aaa-95eb-7a953aa18d59: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:35Z WARNING 40d7f442-8923-4dd5-87cb-af432218c083: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:35Z WARNING [27/98] 40d7f442-8923-4dd5-87cb-af432218c083: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:36Z WARNING 4255c687-2c9c-4ffc-83b6-08157b521931: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:36Z WARNING [28/98] 4255c687-2c9c-4ffc-83b6-08157b521931: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:38Z WARNING 43addd0b-0674-4137-8eaa-9df790dee1ce: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:38Z WARNING [29/98] 43addd0b-0674-4137-8eaa-9df790dee1ce: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:39Z INFO [30/98] 4aa372af-6df5-456b-9be5-76e6bda671de: cophenetic index 4169; 1.2 s; peak memory 200 MiB.
+2026-11-01T09:46:41Z INFO [31/98] 4b9fb66d-0cf9-41e1-997e-8d598461b676: cophenetic index 3941; 1.6 s; peak memory 200 MiB.
+2026-11-01T09:46:42Z INFO [32/98] 599d4212-0fb7-4c35-8029-f22762abacd6: cophenetic index 3854; 1.1 s; peak memory 200 MiB.
+2026-11-01T09:46:43Z WARNING 59beae01-8c63-4353-a90b-e97078f0ecde: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:43Z WARNING [33/98] 59beae01-8c63-4353-a90b-e97078f0ecde: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:45Z INFO [34/98] 6106799e-0a35-4909-b41a-c04f7fe118fc: cophenetic index 4246; 1.6 s; peak memory 200 MiB.
+2026-11-01T09:46:46Z WARNING 6a997180-d683-4d9d-9b90-05b7dc97c11c: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:46Z WARNING [35/98] 6a997180-d683-4d9d-9b90-05b7dc97c11c: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:48Z WARNING 6aa6bd0b-2ee9-4b1c-ae04-8288b68d12ff: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:48Z WARNING [36/98] 6aa6bd0b-2ee9-4b1c-ae04-8288b68d12ff: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:49Z WARNING 6aae1939-4782-4088-b5f7-42ef42d4db39: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:49Z WARNING [37/98] 6aae1939-4782-4088-b5f7-42ef42d4db39: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:51Z WARNING 6d423b55-67f8-42c9-9dee-caa73708d896: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:51Z WARNING [38/98] 6d423b55-67f8-42c9-9dee-caa73708d896: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:52Z INFO [39/98] 71a7e7d1-01cd-4517-b7ff-ded5a0fc769d: cophenetic index 3941; 1.2 s; peak memory 200 MiB.
+2026-11-01T09:46:53Z INFO [40/98] 73066dc5-def6-47f0-8449-7af3460db8b2: cophenetic index 3941; 1.2 s; peak memory 200 MiB.
+2026-11-01T09:46:54Z WARNING 735c7449-7e23-44fa-8990-d5c55f725aa2: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:54Z WARNING [41/98] 735c7449-7e23-44fa-8990-d5c55f725aa2: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:56Z WARNING 75dc9b6e-40d1-4c10-8d75-71e6d60a1109: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:56Z WARNING [42/98] 75dc9b6e-40d1-4c10-8d75-71e6d60a1109: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:57Z WARNING 75e93a30-06d1-4377-ac24-e439b70138bf: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:57Z WARNING [43/98] 75e93a30-06d1-4377-ac24-e439b70138bf: leaving unrecorded for a later run to retry.
+2026-11-01T09:46:59Z WARNING 79d6c03f-a5ad-43d3-a8c3-a13e7b361f24: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:46:59Z WARNING [44/98] 79d6c03f-a5ad-43d3-a8c3-a13e7b361f24: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:00Z WARNING 80e5eff2-6863-4038-9302-675d85163951: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:00Z WARNING [45/98] 80e5eff2-6863-4038-9302-675d85163951: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:02Z WARNING 8485f502-7092-4934-80fe-dc37dd3a4c16: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:02Z WARNING [46/98] 8485f502-7092-4934-80fe-dc37dd3a4c16: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:03Z WARNING 85df85c4-6672-4675-9bb8-5e82e44e0f88: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:03Z WARNING [47/98] 85df85c4-6672-4675-9bb8-5e82e44e0f88: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:04Z WARNING 87fdf428-ebbd-4376-85b5-341f14f18593: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:04Z WARNING [48/98] 87fdf428-ebbd-4376-85b5-341f14f18593: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:06Z INFO [49/98] 8b869bf6-3c7f-49e3-995d-5aa2049cec1c: cophenetic index 3875; 1.2 s; peak memory 200 MiB.
+2026-11-01T09:47:07Z WARNING 8f0183a2-f90f-4b15-8fac-1ca3a404a100: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:07Z WARNING [50/98] 8f0183a2-f90f-4b15-8fac-1ca3a404a100: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:07Z INFO [50/98] 8f0183a2-f90f-4b15-8fac-1ca3a404a100: checkpointed 197333 new records.
+2026-11-01T09:47:09Z WARNING 9078e86c-42d8-47e9-a68b-72aaef5868b8: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:09Z WARNING [51/98] 9078e86c-42d8-47e9-a68b-72aaef5868b8: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:10Z WARNING 907b3a91-92b0-49da-9d8a-a9ce5b752d18: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:10Z WARNING [52/98] 907b3a91-92b0-49da-9d8a-a9ce5b752d18: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:11Z WARNING 91d0f104-6918-47ae-8959-2116c86ee157: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:11Z WARNING [53/98] 91d0f104-6918-47ae-8959-2116c86ee157: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:13Z INFO [54/98] 95060e4e-2b5b-4f47-aeb4-7808da83986a: cophenetic index 4169; 1.2 s; peak memory 200 MiB.
+2026-11-01T09:47:14Z WARNING 969e4747-5a03-4948-bad1-05be9db18f9a: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:14Z WARNING [55/98] 969e4747-5a03-4948-bad1-05be9db18f9a: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:16Z WARNING 96fcc9d3-cbe9-4aaa-986b-aaaf8831ed40: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:16Z WARNING [56/98] 96fcc9d3-cbe9-4aaa-986b-aaaf8831ed40: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:17Z WARNING 98c46e12-f90f-4286-b1c2-15acdc057e25: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:17Z WARNING [57/98] 98c46e12-f90f-4286-b1c2-15acdc057e25: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:18Z INFO [58/98] 98e2c37e-c069-4e3d-99e1-11567678df1f: cophenetic index 4169; 1.2 s; peak memory 200 MiB.
+2026-11-01T09:47:19Z INFO [59/98] 9aac152b-ced3-479c-95c4-83d02f61199e: cophenetic index 3904; 1.3 s; peak memory 200 MiB.
+2026-11-01T09:47:21Z INFO [60/98] 9bc6626e-fbf6-41e1-82b8-a41f727603db: cophenetic index 4246; 1.5 s; peak memory 200 MiB.
+2026-11-01T09:47:22Z WARNING 9f0feaa9-adb3-4487-afb9-d4f49f1acdc6: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:22Z WARNING [61/98] 9f0feaa9-adb3-4487-afb9-d4f49f1acdc6: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:24Z WARNING a5c144c2-f4f0-4c1e-9c08-2b521f863a3b: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:24Z WARNING [62/98] a5c144c2-f4f0-4c1e-9c08-2b521f863a3b: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:25Z INFO [63/98] a84dad47-8cf2-4d1f-b6b8-d8c4dc51e975: cophenetic index 4246; 1.4 s; peak memory 200 MiB.
+2026-11-01T09:47:27Z WARNING a8b6a037-6a71-4569-91a5-b9a166b789a9: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:27Z WARNING [64/98] a8b6a037-6a71-4569-91a5-b9a166b789a9: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:28Z WARNING ad5b0970-92ee-45ed-9ade-ec72ab7c0c43: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:28Z WARNING [65/98] ad5b0970-92ee-45ed-9ade-ec72ab7c0c43: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:30Z WARNING af8f8d1e-890e-40fb-8b99-bcfbd9dafa86: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:30Z WARNING [66/98] af8f8d1e-890e-40fb-8b99-bcfbd9dafa86: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:31Z INFO [67/98] b2277759-f9ff-44fd-9ad6-6e28ab5b9de3: cophenetic index 4424; 1.5 s; peak memory 200 MiB.
+2026-11-01T09:47:32Z WARNING b359ad1b-7ba4-48e8-a318-3a5df59e0611: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:32Z WARNING [68/98] b359ad1b-7ba4-48e8-a318-3a5df59e0611: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:34Z WARNING b90ff2fd-f7e7-41b9-939a-f8612e2c9ba9: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:34Z WARNING [69/98] b90ff2fd-f7e7-41b9-939a-f8612e2c9ba9: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:35Z INFO [70/98] bbd28988-7a3e-4961-86a3-991413ed83e0: cophenetic index 4246; 1.4 s; peak memory 200 MiB.
+2026-11-01T09:47:37Z WARNING c30d8e04-35d5-46ae-89c1-f0ad78152437: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:37Z WARNING [71/98] c30d8e04-35d5-46ae-89c1-f0ad78152437: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:38Z INFO [72/98] c685d0bc-e880-4b7f-8064-d339a0a3ceba: cophenetic index 3986; 1.5 s; peak memory 200 MiB.
+2026-11-01T09:47:40Z WARNING c75892b0-e896-47ce-9be6-aaf7fff0b0bc: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:40Z WARNING [73/98] c75892b0-e896-47ce-9be6-aaf7fff0b0bc: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:41Z WARNING ced3426c-8c04-4668-a901-8fb5c9b9e30a: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:41Z WARNING [74/98] ced3426c-8c04-4668-a901-8fb5c9b9e30a: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:43Z WARNING cf14fab4-8ffa-4429-9633-4621077abaf8: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:43Z WARNING [75/98] cf14fab4-8ffa-4429-9633-4621077abaf8: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:44Z WARNING cf2e939f-f590-43e2-b209-c14bcd9ec7be: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:44Z WARNING [76/98] cf2e939f-f590-43e2-b209-c14bcd9ec7be: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:45Z WARNING d082e3f4-951c-4756-a246-45664b4b6617: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:45Z WARNING [77/98] d082e3f4-951c-4756-a246-45664b4b6617: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:47Z WARNING d1b31cf9-4a0a-4d3b-b7b6-209a40241c19: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:47Z WARNING [78/98] d1b31cf9-4a0a-4d3b-b7b6-209a40241c19: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:49Z WARNING d40f5b68-7e95-4fd2-9b61-fcc7804b6b27: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:49Z WARNING [79/98] d40f5b68-7e95-4fd2-9b61-fcc7804b6b27: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:50Z WARNING d73cb2c7-2e04-4c75-ba50-9b634dc8e8fb: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:50Z WARNING [80/98] d73cb2c7-2e04-4c75-ba50-9b634dc8e8fb: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:52Z INFO [81/98] deaf143e-c055-49d6-b7de-46caf720b34a: cophenetic index 1994; 2.1 s; peak memory 200 MiB.
+2026-11-01T09:47:54Z WARNING e0405d5b-a2a4-4a81-b77d-85e24bf8aaba: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:54Z WARNING [82/98] e0405d5b-a2a4-4a81-b77d-85e24bf8aaba: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:55Z INFO [83/98] e2868004-3c5a-46e2-9a8a-2d7f3184e7b1: cophenetic index 4246; 1.3 s; peak memory 200 MiB.
+2026-11-01T09:47:56Z WARNING e9d08dad-69f2-41af-95a7-8c926d323241: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:47:56Z WARNING [84/98] e9d08dad-69f2-41af-95a7-8c926d323241: leaving unrecorded for a later run to retry.
+2026-11-01T09:47:58Z INFO [85/98] e9d9735f-8bdd-4f20-8564-6b9b2041b076: cophenetic index 3941; 1.4 s; peak memory 200 MiB.
+2026-11-01T09:47:59Z INFO [86/98] eb86c8e9-445f-48b0-880a-7b06483a497c: cophenetic index 3482; 1.2 s; peak memory 200 MiB.
+2026-11-01T09:48:00Z WARNING ec910d11-a407-4e11-b6b7-7e72bd6dcca7: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:48:00Z WARNING [87/98] ec910d11-a407-4e11-b6b7-7e72bd6dcca7: leaving unrecorded for a later run to retry.
+2026-11-01T09:48:02Z WARNING ecf5ec80-5d04-4618-8d36-5e8b6a518db7: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:48:02Z WARNING [88/98] ecf5ec80-5d04-4618-8d36-5e8b6a518db7: leaving unrecorded for a later run to retry.
+2026-11-01T09:48:03Z WARNING ed0ae43b-b9f4-49b7-80b0-b0e7e1bfe4b2: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:48:03Z WARNING [89/98] ed0ae43b-b9f4-49b7-80b0-b0e7e1bfe4b2: leaving unrecorded for a later run to retry.
+2026-11-01T09:48:04Z INFO [90/98] f01815de-7316-4234-b0e0-8c95d7d51bfd: cophenetic index 3854; 1.0 s; peak memory 200 MiB.
+2026-11-01T09:48:05Z INFO [91/98] f061371c-64a5-4c6a-997d-33985dbe4207: cophenetic index 3941; 1.2 s; peak memory 200 MiB.
+2026-11-01T09:48:07Z WARNING f096214e-4bb0-48ca-8c77-fa5832318eae: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:48:07Z WARNING [92/98] f096214e-4bb0-48ca-8c77-fa5832318eae: leaving unrecorded for a later run to retry.
+2026-11-01T09:48:09Z WARNING f33dbc0f-9f9e-4645-ba23-6ddb643fd950: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:48:09Z WARNING [93/98] f33dbc0f-9f9e-4645-ba23-6ddb643fd950: leaving unrecorded for a later run to retry.
+2026-11-01T09:48:10Z INFO [94/98] f7246129-27ee-461e-8b13-7194267fee86: cophenetic index 4100; 1.6 s; peak memory 200 MiB.
+2026-11-01T09:48:12Z WARNING fba185e3-7f0f-490c-89da-5d6f063bbb64: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:48:12Z WARNING [95/98] fba185e3-7f0f-490c-89da-5d6f063bbb64: leaving unrecorded for a later run to retry.
+2026-11-01T09:48:13Z INFO [96/98] fbb14c47-1f23-4fd9-8995-e4a949a1cbf0: cophenetic index 4246; 1.3 s; peak memory 200 MiB.
+2026-11-01T09:48:14Z INFO [97/98] fe081a15-a2c1-4847-abf5-3c8f16e0addd: cophenetic index 4169; 1.5 s; peak memory 200 MiB.
+2026-11-01T09:48:16Z WARNING fecca3e5-bf07-41fe-8342-06a92259564a: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-11-01T09:48:16Z WARNING [98/98] fecca3e5-bf07-41fe-8342-06a92259564a: leaving unrecorded for a later run to retry.
+2026-11-01T09:48:16Z INFO Wrote 197350 records to /tmp/derivatives/valid_nwb_file_to_cophenetic_index.zarr (33 new, 65 failed) in 2.3 min (peak memory 280 MiB).
+2026-11-01T09:48:16Z INFO Progress: 197,306 of 197,371 candidates recorded (100.0%).
