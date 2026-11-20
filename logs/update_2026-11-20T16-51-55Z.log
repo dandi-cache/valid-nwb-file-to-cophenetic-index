@@ -1,0 +1,72 @@
+2026-11-20T16:51:55Z INFO Logging to /tmp/logs/update_2026-11-20T16-51-55Z.log.
+2026-11-20T16:51:55Z INFO Update valid-nwb-file-to-cophenetic-index (base directory /tmp).
+2026-11-20T16:51:58Z INFO Processing 65 items (220924 already recorded).
+2026-11-20T16:51:59Z INFO [1/65] 024ef50f-ac6f-49ea-806b-93ef4b5e8644: cophenetic index 325384; 1.0 s; peak memory 208 MiB.
+2026-11-20T16:52:00Z INFO [2/65] 09073220-fbea-45d2-9a39-2cc61fcdc2a1: cophenetic index 325384; 1.1 s; peak memory 208 MiB.
+2026-11-20T16:52:01Z INFO [3/65] 0dec427d-4db4-44c3-988a-c37959ceaff3: cophenetic index 326039; 1.3 s; peak memory 208 MiB.
+2026-11-20T16:52:02Z INFO [4/65] 0f7396ad-67ec-468a-b6a6-5599cb507f54: cophenetic index 326128; 1.0 s; peak memory 208 MiB.
+2026-11-20T16:52:04Z INFO [5/65] 1066b3ba-83d9-4cb3-bfe3-ecf8539e2334: cophenetic index 325384; 1.1 s; peak memory 208 MiB.
+2026-11-20T16:52:04Z INFO [6/65] 17a546c4-6425-4c56-a43e-9f9f272d299c: cophenetic index 325384; 0.8 s; peak memory 208 MiB.
+2026-11-20T16:52:05Z INFO [7/65] 19998990-d06f-40db-8d07-c5121b317b6a: cophenetic index 325384; 1.1 s; peak memory 208 MiB.
+2026-11-20T16:52:06Z INFO [8/65] 1a18ed31-9155-4512-919f-b6875d14b9f3: cophenetic index 325679; 0.9 s; peak memory 208 MiB.
+2026-11-20T16:52:07Z INFO [9/65] 1c2fff6f-f3a7-43fb-b7e2-a33218d41614: cophenetic index 325384; 0.9 s; peak memory 208 MiB.
+2026-11-20T16:52:08Z INFO [10/65] 20b5d243-5a61-4246-a5d5-ac9d9068183d: cophenetic index 325384; 0.9 s; peak memory 208 MiB.
+2026-11-20T16:52:09Z INFO [11/65] 20e4b649-b593-4ee3-bd02-f0645aad7021: cophenetic index 325384; 1.1 s; peak memory 208 MiB.
+2026-11-20T16:52:10Z INFO [12/65] 2420003b-b350-4a69-b1aa-b27f68179823: cophenetic index 329982; 1.1 s; peak memory 208 MiB.
+2026-11-20T16:52:11Z INFO [13/65] 2a76c0ae-11ba-4712-bfc9-5a1534c26aeb: cophenetic index 325384; 1.0 s; peak memory 208 MiB.
+2026-11-20T16:52:12Z INFO [14/65] 319d22c8-6c6e-41bb-9bf9-9c6773d2b2ad: cophenetic index 325384; 0.8 s; peak memory 208 MiB.
+2026-11-20T16:52:13Z INFO [15/65] 324ccb4d-b81e-4dbb-a29d-ef474eef0d50: cophenetic index 326842; 1.0 s; peak memory 208 MiB.
+2026-11-20T16:52:14Z INFO [16/65] 3b2672c0-01e2-4e2a-a6fd-09535b8afd67: cophenetic index 325384; 1.0 s; peak memory 208 MiB.
+2026-11-20T16:52:16Z INFO [17/65] 3dec1e5e-7a4c-4aaa-95eb-7a953aa18d59: cophenetic index 329164; 1.5 s; peak memory 208 MiB.
+2026-11-20T16:52:17Z INFO [18/65] 40d7f442-8923-4dd5-87cb-af432218c083: cophenetic index 326534; 1.1 s; peak memory 208 MiB.
+2026-11-20T16:52:20Z INFO [19/65] 4255c687-2c9c-4ffc-83b6-08157b521931: cophenetic index 340259; 2.7 s; peak memory 208 MiB.
+2026-11-20T16:52:20Z INFO [20/65] 43addd0b-0674-4137-8eaa-9df790dee1ce: cophenetic index 326534; 0.9 s; peak memory 208 MiB.
+2026-11-20T16:52:21Z INFO [21/65] 59beae01-8c63-4353-a90b-e97078f0ecde: cophenetic index 326534; 0.9 s; peak memory 208 MiB.
+2026-11-20T16:52:22Z INFO [22/65] 6a997180-d683-4d9d-9b90-05b7dc97c11c: cophenetic index 325679; 0.8 s; peak memory 208 MiB.
+2026-11-20T16:52:23Z INFO [23/65] 6aa6bd0b-2ee9-4b1c-ae04-8288b68d12ff: cophenetic index 325384; 1.1 s; peak memory 208 MiB.
+2026-11-20T16:52:24Z INFO [24/65] 6aae1939-4782-4088-b5f7-42ef42d4db39: cophenetic index 325384; 1.0 s; peak memory 208 MiB.
+2026-11-20T16:52:26Z INFO [25/65] 6d423b55-67f8-42c9-9dee-caa73708d896: cophenetic index 325384; 1.2 s; peak memory 208 MiB.
+2026-11-20T16:52:27Z INFO [26/65] 735c7449-7e23-44fa-8990-d5c55f725aa2: cophenetic index 325384; 1.1 s; peak memory 208 MiB.
+2026-11-20T16:52:28Z INFO [27/65] 75dc9b6e-40d1-4c10-8d75-71e6d60a1109: cophenetic index 325384; 1.0 s; peak memory 208 MiB.
+2026-11-20T16:52:29Z INFO [28/65] 75e93a30-06d1-4377-ac24-e439b70138bf: cophenetic index 325384; 1.0 s; peak memory 208 MiB.
+2026-11-20T16:52:30Z INFO [29/65] 79d6c03f-a5ad-43d3-a8c3-a13e7b361f24: cophenetic index 325384; 0.9 s; peak memory 208 MiB.
+2026-11-20T16:52:31Z INFO [30/65] 80e5eff2-6863-4038-9302-675d85163951: cophenetic index 326534; 1.2 s; peak memory 208 MiB.
+2026-11-20T16:52:32Z INFO [31/65] 8485f502-7092-4934-80fe-dc37dd3a4c16: cophenetic index 325384; 1.1 s; peak memory 208 MiB.
+2026-11-20T16:52:33Z INFO [32/65] 85df85c4-6672-4675-9bb8-5e82e44e0f88: cophenetic index 325679; 1.1 s; peak memory 208 MiB.
+2026-11-20T16:52:34Z INFO [33/65] 87fdf428-ebbd-4376-85b5-341f14f18593: cophenetic index 325384; 1.0 s; peak memory 208 MiB.
+2026-11-20T16:52:35Z INFO [34/65] 8f0183a2-f90f-4b15-8fac-1ca3a404a100: cophenetic index 325384; 0.9 s; peak memory 208 MiB.
+2026-11-20T16:52:36Z INFO [35/65] 9078e86c-42d8-47e9-a68b-72aaef5868b8: cophenetic index 325384; 1.2 s; peak memory 208 MiB.
+2026-11-20T16:52:37Z INFO [36/65] 907b3a91-92b0-49da-9d8a-a9ce5b752d18: cophenetic index 325384; 0.9 s; peak memory 208 MiB.
+2026-11-20T16:52:38Z INFO [37/65] 91d0f104-6918-47ae-8959-2116c86ee157: cophenetic index 325384; 1.0 s; peak memory 208 MiB.
+2026-11-20T16:52:39Z INFO [38/65] 969e4747-5a03-4948-bad1-05be9db18f9a: cophenetic index 326534; 1.1 s; peak memory 208 MiB.
+2026-11-20T16:52:40Z INFO [39/65] 96fcc9d3-cbe9-4aaa-986b-aaaf8831ed40: cophenetic index 325384; 1.2 s; peak memory 208 MiB.
+2026-11-20T16:52:41Z INFO [40/65] 98c46e12-f90f-4286-b1c2-15acdc057e25: cophenetic index 325664; 1.3 s; peak memory 208 MiB.
+2026-11-20T16:52:42Z INFO [41/65] 9f0feaa9-adb3-4487-afb9-d4f49f1acdc6: cophenetic index 325664; 1.0 s; peak memory 208 MiB.
+2026-11-20T16:52:44Z INFO [42/65] a5c144c2-f4f0-4c1e-9c08-2b521f863a3b: cophenetic index 326128; 1.1 s; peak memory 208 MiB.
+2026-11-20T16:52:45Z INFO [43/65] a8b6a037-6a71-4569-91a5-b9a166b789a9: cophenetic index 327328; 1.1 s; peak memory 208 MiB.
+2026-11-20T16:52:46Z INFO [44/65] ad5b0970-92ee-45ed-9ade-ec72ab7c0c43: cophenetic index 326534; 1.1 s; peak memory 208 MiB.
+2026-11-20T16:52:47Z INFO [45/65] af8f8d1e-890e-40fb-8b99-bcfbd9dafa86: cophenetic index 332325; 1.3 s; peak memory 208 MiB.
+2026-11-20T16:52:48Z INFO [46/65] b359ad1b-7ba4-48e8-a318-3a5df59e0611: cophenetic index 327328; 1.0 s; peak memory 208 MiB.
+2026-11-20T16:52:49Z INFO [47/65] b90ff2fd-f7e7-41b9-939a-f8612e2c9ba9: cophenetic index 325384; 1.1 s; peak memory 208 MiB.
+2026-11-20T16:52:50Z INFO [48/65] c30d8e04-35d5-46ae-89c1-f0ad78152437: cophenetic index 326534; 1.2 s; peak memory 208 MiB.
+2026-11-20T16:52:52Z INFO [49/65] c75892b0-e896-47ce-9be6-aaf7fff0b0bc: cophenetic index 331325; 1.6 s; peak memory 208 MiB.
+2026-11-20T16:52:53Z INFO [50/65] ced3426c-8c04-4668-a901-8fb5c9b9e30a: cophenetic index 325384; 0.9 s; peak memory 208 MiB.
+2026-11-20T16:52:53Z INFO [50/65] ced3426c-8c04-4668-a901-8fb5c9b9e30a: checkpointed 220974 new records.
+2026-11-20T16:52:54Z INFO [51/65] cf14fab4-8ffa-4429-9633-4621077abaf8: cophenetic index 326039; 1.1 s; peak memory 208 MiB.
+2026-11-20T16:52:55Z INFO [52/65] cf2e939f-f590-43e2-b209-c14bcd9ec7be: cophenetic index 325679; 1.0 s; peak memory 208 MiB.
+2026-11-20T16:52:56Z INFO [53/65] d082e3f4-951c-4756-a246-45664b4b6617: cophenetic index 325384; 1.1 s; peak memory 208 MiB.
+2026-11-20T16:52:57Z INFO [54/65] d1b31cf9-4a0a-4d3b-b7b6-209a40241c19: cophenetic index 326534; 0.9 s; peak memory 208 MiB.
+2026-11-20T16:52:58Z INFO [55/65] d40f5b68-7e95-4fd2-9b61-fcc7804b6b27: cophenetic index 332325; 1.2 s; peak memory 208 MiB.
+2026-11-20T16:52:59Z INFO [56/65] d73cb2c7-2e04-4c75-ba50-9b634dc8e8fb: cophenetic index 326534; 0.9 s; peak memory 208 MiB.
+2026-11-20T16:53:00Z INFO [57/65] e0405d5b-a2a4-4a81-b77d-85e24bf8aaba: cophenetic index 328094; 1.0 s; peak memory 208 MiB.
+2026-11-20T16:53:01Z INFO [58/65] e9d08dad-69f2-41af-95a7-8c926d323241: cophenetic index 326534; 1.1 s; peak memory 208 MiB.
+2026-11-20T16:53:02Z INFO [59/65] ec910d11-a407-4e11-b6b7-7e72bd6dcca7: cophenetic index 325384; 1.2 s; peak memory 208 MiB.
+2026-11-20T16:53:04Z INFO [60/65] ecf5ec80-5d04-4618-8d36-5e8b6a518db7: cophenetic index 325384; 1.2 s; peak memory 208 MiB.
+2026-11-20T16:53:05Z INFO [61/65] ed0ae43b-b9f4-49b7-80b0-b0e7e1bfe4b2: cophenetic index 326534; 1.4 s; peak memory 208 MiB.
+2026-11-20T16:53:06Z INFO [62/65] f096214e-4bb0-48ca-8c77-fa5832318eae: cophenetic index 325384; 1.2 s; peak memory 208 MiB.
+2026-11-20T16:53:08Z INFO [63/65] f33dbc0f-9f9e-4645-ba23-6ddb643fd950: cophenetic index 340259; 2.2 s; peak memory 208 MiB.
+2026-11-20T16:53:10Z INFO [64/65] fba185e3-7f0f-490c-89da-5d6f063bbb64: cophenetic index 325384; 1.2 s; peak memory 208 MiB.
+2026-11-20T16:53:11Z INFO [65/65] fecca3e5-bf07-41fe-8342-06a92259564a: cophenetic index 326534; 1.0 s; peak memory 208 MiB.
+2026-11-20T16:53:11Z INFO Wrote 220989 records to /tmp/derivatives/valid_nwb_file_to_cophenetic_index.zarr (65 new, 0 failed) in 1.2 min (peak memory 266 MiB).
+2026-11-20T16:53:11Z INFO Batch summary: considered=65 new=65 failed=0 left=0 stopped=none
+2026-11-20T16:53:11Z INFO Progress: 220,932 of 220,932 candidates recorded (100.0%).
