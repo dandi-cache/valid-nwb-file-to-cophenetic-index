@@ -1,0 +1,8 @@
+2026-11-22T02:42:01Z INFO Logging to /tmp/logs/update_2026-11-22T02-42-01Z.log.
+2026-11-22T02:42:01Z INFO Update valid-nwb-file-to-cophenetic-index (base directory /tmp).
+2026-11-22T02:42:04Z INFO Processing 2 items (221090 already recorded).
+2026-11-22T02:42:04Z INFO [1/2] 4c1abae2-f8f6-4c06-a9b6-539112e1638a: cophenetic index 852; 0.8 s; peak memory 208 MiB.
+2026-11-22T02:42:05Z INFO [2/2] edacdb07-6d66-4bbf-954d-ac8522bf9ac0: cophenetic index 867; 0.9 s; peak memory 208 MiB.
+2026-11-22T02:42:06Z INFO Wrote 221092 records to /tmp/derivatives/valid_nwb_file_to_cophenetic_index.zarr (2 new, 0 failed) in 0.0 min (peak memory 243 MiB).
+2026-11-22T02:42:06Z INFO Batch summary: considered=2 new=2 failed=0 left=0 stopped=none
+2026-11-22T02:42:06Z INFO Progress: 221,035 of 221,035 candidates recorded (100.0%).
