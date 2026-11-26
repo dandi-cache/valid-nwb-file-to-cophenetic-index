@@ -1,0 +1,25 @@
+2026-11-26T13:12:26Z INFO Logging to /tmp/logs/update_2026-11-26T13-12-26Z.log.
+2026-11-26T13:12:26Z INFO Update valid-nwb-file-to-cophenetic-index (base directory /tmp).
+2026-11-26T13:12:28Z INFO Processing 19 items (221857 already recorded).
+2026-11-26T13:12:30Z INFO [1/19] 0dd2fc08-8e26-46da-a9bb-a392a3acdc6b: cophenetic index 32322; 1.9 s; peak memory 208 MiB.
+2026-11-26T13:12:32Z INFO [2/19] 1705c525-99f6-40c3-b524-a5f610c4453c: cophenetic index 32322; 2.0 s; peak memory 208 MiB.
+2026-11-26T13:12:34Z INFO [3/19] 17f87e3d-bedc-4134-9cf6-76caaec37e98: cophenetic index 32322; 2.3 s; peak memory 208 MiB.
+2026-11-26T13:12:36Z INFO [4/19] 196a8786-aa24-4718-8256-072724e23897: cophenetic index 32322; 1.9 s; peak memory 208 MiB.
+2026-11-26T13:12:38Z INFO [5/19] 26856d42-a308-4bda-9481-9f3a4eadf5dd: cophenetic index 32322; 1.8 s; peak memory 208 MiB.
+2026-11-26T13:12:40Z INFO [6/19] 3e773fad-5ffa-4d20-92a5-d2dd89b45525: cophenetic index 32322; 2.2 s; peak memory 208 MiB.
+2026-11-26T13:12:42Z INFO [7/19] 41d6f2cf-8714-4076-ad1b-7e2989d6b153: cophenetic index 32322; 2.0 s; peak memory 208 MiB.
+2026-11-26T13:12:44Z INFO [8/19] 46b2b239-d04c-4b77-9ff3-def9ae3a0341: cophenetic index 32322; 1.9 s; peak memory 208 MiB.
+2026-11-26T13:12:46Z INFO [9/19] 4a25d0c0-4034-4415-9b64-58d51447488b: cophenetic index 32322; 1.8 s; peak memory 208 MiB.
+2026-11-26T13:12:48Z INFO [10/19] 4fabcd26-e257-4159-a26c-a4f56fb63e51: cophenetic index 32322; 1.8 s; peak memory 208 MiB.
+2026-11-26T13:12:50Z INFO [11/19] 70600e9b-2fce-4d23-ba3e-3ae4f1a6614f: cophenetic index 32322; 2.1 s; peak memory 208 MiB.
+2026-11-26T13:12:52Z INFO [12/19] 7885b840-d478-42a7-ad6a-c8afb24e24f9: cophenetic index 32322; 2.1 s; peak memory 208 MiB.
+2026-11-26T13:12:54Z INFO [13/19] 7c14b2b4-cae8-43c9-94e0-d283412ac00a: cophenetic index 32322; 2.0 s; peak memory 208 MiB.
+2026-11-26T13:12:56Z INFO [14/19] 7e78d447-a3f6-4984-950f-e2a0374892c9: cophenetic index 32322; 1.9 s; peak memory 208 MiB.
+2026-11-26T13:12:58Z INFO [15/19] 946599f5-5673-4398-a952-ccad08686030: cophenetic index 32322; 1.9 s; peak memory 208 MiB.
+2026-11-26T13:12:59Z INFO [16/19] 991e75ef-1f2f-485c-9ce5-7bc2ad8d2262: cophenetic index 32322; 1.5 s; peak memory 208 MiB.
+2026-11-26T13:13:01Z INFO [17/19] e5597223-7705-460a-ae08-c6baf75f6e90: cophenetic index 32322; 2.0 s; peak memory 208 MiB.
+2026-11-26T13:13:03Z INFO [18/19] f4171596-4a13-4e93-ba49-a40910e324ce: cophenetic index 32322; 1.5 s; peak memory 208 MiB.
+2026-11-26T13:13:05Z INFO [19/19] f95d8800-d3ee-4aa5-a9fd-633184c88c5d: cophenetic index 32322; 1.7 s; peak memory 208 MiB.
+2026-11-26T13:13:05Z INFO Wrote 221876 records to /tmp/derivatives/valid_nwb_file_to_cophenetic_index.zarr (19 new, 0 failed) in 0.6 min (peak memory 251 MiB).
+2026-11-26T13:13:05Z INFO Batch summary: considered=19 new=19 failed=0 left=0 stopped=none
+2026-11-26T13:13:05Z INFO Progress: 221,817 of 221,817 candidates recorded (100.0%).
